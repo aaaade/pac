@@ -23296,6 +23296,11 @@
      color: white;
      border-radius: 3px 3px 3px;
      margin-bottom: 5px !important;
+     display: inline-block !important;
+ }
+
+ .left-text-align {
+    text-align: left !important;
  }
 
  .pac-about-us {

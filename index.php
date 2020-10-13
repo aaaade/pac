@@ -47,7 +47,6 @@
         <a class="nav-link" href="#about"><i class="fas fa-star"></i> Why Us</a>        
         <a class="nav-link" href="#team"><i class="fas fa-star"></i> Team</a>        
         <a class="nav-link" href="#customers"><i class="far fa-comments"></i> Customers</a>
-        <a class="nav-link" href="#faq"><i class="fas fa-headset"></i> Ask us</a>
         <a class="nav-link" href="#contact"><i class="fas fa-star"></i> Contact</a>
       </nav>
     </aside>
@@ -96,7 +95,7 @@
               <div class="pac-about-us">
                 <h5>About Us</h5>
                 <span class="quote-message"  style="text-align: justify !important;">
-                    <p>Phillips Akindele & Co. provides audit and assurance services (“the Services”) to its clients. This includes statutory and non-statutory audit as well as limited assurance assignments such as forensic audit. 
+                    <p>Phillips Akindele & Co. provides audit and assurance services to its clients. This includes statutory and non-statutory audit as well as limited assurance assignments such as forensic audit. 
                       We perform the services complying with the provisions of the International Standards on Auditing. The services include reviewing, reporting and providing recommendations on the adequacy and 
                       effectiveness of existing accounting and internal control systems of our clients. We also provide tax advisory services assisting companies to achieve compliance with the provisions of the 
                       relevant tax and regulatory laws in Nigeria and in  Africa at large.
@@ -211,7 +210,7 @@
                     <a href="#" class="btn btn-instagram btn-circle"></a>
                   </div>
 
-                  <div>
+                  <div class="left-text-align">
                     <h4>Specialties</h4>
                     <span class="pac-services">Strategic environmental and risk analysis</span>
                     <span class="pac-services">Business operating model</span>
@@ -256,7 +255,7 @@
                     <a href="#" class="btn btn-instagram btn-circle"></a>
                   </div>
 
-                  <div>
+                  <div class="left-text-align">
                     <h4>Specialties</h4>
                     <span class="pac-services">Financial Report and Auditting</span>
                     <span class="pac-services">Tax Advisory Services</span>
@@ -295,7 +294,7 @@
                     <a href="#" class="btn btn-instagram btn-circle"></a>
                   </div>
 
-                  <div>
+                  <div class="left-text-align">
                     <h4>Specialties</h4>
                     <span class="pac-services">Statutory Audit</span>
                     <span class="pac-services">Reviews and compliance engagements</span>
@@ -304,7 +303,7 @@
                   </div>
 
                   <h6 class="member-name">+ 2348098240513</h6>
-                  <span class="member-title">accounts@portersworldconsult.com</span>
+                  <span class="member-title">team@phillipsakindeleandco.com</span>
                 </div>
               </div>
 
@@ -331,7 +330,7 @@
                     <a href="#" class="btn btn-instagram btn-circle"></a>
                   </div>
 
-                  <div>
+                  <div class="left-text-align">
                     <h4>Specialties</h4>
                     <span class="pac-services">Statutory Audit</span>
                     <span class="pac-services">Reviews and compliance engagements</span>
@@ -340,7 +339,7 @@
                   </div>
 
                   <h6 class="member-name">+ 23407031992975</h6>
-                  <span class="member-title">accounts@portersworldconsult.com</span>
+                  <span class="member-title">team@phillipsakindeleandco.com</span>
                 </div>
               </div>
 
@@ -364,7 +363,7 @@
                     <a href="#" class="btn btn-instagram btn-circle"></a>
                   </div>
 
-                  <div>
+                  <div class="left-text-align">
                     <h4>Specialties</h4>
                     <span class="pac-services">Financial statement analysis</span>
                     <span class="pac-services">Financial reporting, control & audit</span> 
@@ -375,7 +374,7 @@
                   </div>
 
                   <h6 class="member-name">+ 2348162793398</h6>
-                  <span class="member-title">accounts@portersworldconsult.com</span>
+                  <span class="member-title">team@phillipsakindeleandco.com</span>
                 </div>
               </div>
 
@@ -407,7 +406,7 @@
                           <li>Phillips Akindele & Co was engaged to perform financial and tax due diligence on the two acquisitions.</li>
                         </ul>
                     </span>
-                    <div>
+                    <div class="left-text-align">
                       <h4>Outcome and deliverables</h4>
                       <span class="pac-services">Financial Due Diligence</span>
                       <span class="pac-services">Tax Due Diligence</span>
@@ -425,7 +424,7 @@
                             a retainer basis, engaged to provide tax compliance services as well as audit services.</li>
                         </ul>
                     </span>
-                    <div>
+                    <div class="left-text-align">
                       <h4>Outcome and deliverables</h4>
                       <span class="pac-services">Tax Planning Report/ Strategy Document</span>
                       <span class="pac-services">Payroll Advisory</span>
@@ -447,7 +446,7 @@
                           <li>Our sister firm was subsequently, on a retainer basis, engaged to provide accounting and tax compliance services.</li>
                         </ul>
                     </span>
-                    <div>
+                    <div class="left-text-align">
                       <h4>Outcome and deliverables</h4>
                       <span class="pac-services">Tax Audit</span>
                     </div>
@@ -463,7 +462,7 @@
                           <li>Phillips Akindele & Co was engaged to provide audit and tax services. Our firm was subsequently engaged to carry out internal control and inventory management services.</li>
                         </ul>
                     </span>
-                    <div>
+                    <div class="left-text-align">
                       <h4>Outcome and deliverables</h4>
                       <span class="pac-services">Tax Audit Services</span>
                       <span class="pac-services">Internal Control and Inventory Management</span>
@@ -482,7 +481,7 @@
                           <li>Phillips Akindele & Co was engaged to provide audit and tax services. Our firm was subsequently, on a retainer basis, engaged to provide tax compliance services as well.</li>
                         </ul>
                     </span>
-                    <div>
+                    <div class="left-text-align">
                       <h4>Outcome and deliverables</h4>
                       <span class="pac-services">Tax Planning</span>
                       <span class="pac-services">Tax Compliance Services</span>
@@ -499,7 +498,7 @@
                           <li>Phillips Akindele & Co was engaged to provide audit and tax services. Our sister firm was subsequently, on a retainer basis, engaged to provide accounting and tax compliance service.</li>
                         </ul>
                     </span>
-                    <div>
+                    <div class="left-text-align">
                       <h4>Outcome and deliverables</h4>
                       <span class="pac-services">Audit and Tax Services</span>
                     </div>
@@ -514,7 +513,7 @@
                           <li>Phillips Akindele & Co was engaged to provide audit and tax services. Our sister firm was subsequently, on a retainer basis, engaged to provide accounting and tax compliance service.</li>
                         </ul>
                     </span>
-                    <div>
+                    <div class="left-text-align">
                       <h4>Outcome and deliverables</h4>
                       <span class="pac-services">Forensic Audit</span>
                       <span class="pac-services">Payroll Advisory</span>
@@ -566,88 +565,21 @@
 
         <!-- FAQ -->
         <section id="faq">
-          <div class="container">
-            <div class="row text-center">
-              <div class="col-lg-12">
-                <h5 class="mb-3">FAQ</h5>
-                <h3 class="mt-1 text-primary">Frequently asked questions</h3>
-              </div>
-            </div>
-            <div class="row mt-3">
-              <div class="col">
-                <div id="accordion">
-                  <div class="card" data-aos="fade-left">
-                    <div class="card-header" id="headingOne">
-                      <h2>
-                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                          Can I install the app on more than one devices?
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                      <div class="card-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card" data-aos="fade-left">
-                    <div class="card-header" id="headingTwo">
-                      <h2>
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                          Is it possible to cancel my subscription?
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                      <div class="card-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                      </div>
-                    </div>
-                  </div>
-                  <div class="card" data-aos="fade-left">
-                    <div class="card-header" id="headingThree">
-                      <h2>
-                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                          Can I get a refund if I'm not happy with the app?
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                      <div class="card-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          
         </section>
 
         <!-- Contact Form -->
         <a class="btn btn-primary btn-block btn-squared m-0 py-5" data-toggle="collapse" href="#contact" role="button" aria-expanded="false" aria-controls="contact">
-          <h4 class="text-white" data-aos="zoom-in">Still have questions?</h4>
+          <h4 class="text-white" data-aos="zoom-in">Want to contact us?</h4>
         </a>
         <section id="contact">
           <div class="container">
-            <div class="row">
-              <!-- Contact Image -->
-              <div class="col-lg-6">
-                <img src="images/index-app/hero/contact.png" class="img-fluid mb-5" alt="Contact us" />
-              </div>
-              <!-- Contact Form -->
-              <div class="col-lg-6">
-                <h2 class="hide">Contact</h2>
-                <form>
-                  <div class="form-group" style="text-align: center;">
-                        <p>info@phillipsakindeleandco.com</p>
-
-                        <p>+234 706 417 1650</p>
-
-                        <p>+234 809 351 0318</p>
-                  </div>
-                </form>
-              </div>
+            <div class="row">              
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.750100249321!2d3.4368073147702143!3d6.426144295350643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf53d70fa0c33%3A0x228beccf754870b8!2s315b%20Akin%20Ogunlewe%20Rd%2C%20Victoria%20Island%2C%20Lagos!5e0!3m2!1sen!2sng!4v1602603729037!5m2!1sen!2sng" width="1000" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+              
+              <div>
+                <p>Telephone: Telephone: 08033510318 |  07064171650 <br/>
+                Email: team@phillipsakindeleandco.com</p>
             </div>
           </div>
         </section>
@@ -680,8 +612,8 @@
                 <li><a  href="#hero"> Home</a></li>
                 <li><a  href="#key"> About</a></li>
                 <li><a  href="#about"> Why Us</a></li>        
+                <li><a class="nav-link" href="#team"><i class="fas fa-star"></i> Team</a></li>
                 <li><a  href="#customers"> Customers</a></li>
-                <li><a  href="#faq"> Ask us</a></li>
                 <li><a  href="#contact"> Contact</a></li>
               </ul>
             </div>
