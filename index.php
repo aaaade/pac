@@ -205,9 +205,7 @@
                     </p>
                   </div>
                   <div class="member-social">
-                    <a href="#" class="btn btn-facebook btn-circle"></a>
-                    <a href="#" class="btn btn-twitter btn-circle"></a>
-                    <a href="#" class="btn btn-instagram btn-circle"></a>
+                    <a class="btn btn-linkedin btn-circle"></a>
                   </div>
 
                   <div class="left-text-align">
@@ -250,9 +248,7 @@
                     </p>
                   </div>
                   <div class="member-social">
-                    <a href="#" class="btn btn-facebook btn-circle"></a>
-                    <a href="#" class="btn btn-twitter btn-circle"></a>
-                    <a href="#" class="btn btn-instagram btn-circle"></a>
+                  <a class="btn btn-linkedin btn-circle"></a>
                   </div>
 
                   <div class="left-text-align">
@@ -289,9 +285,7 @@
                     </p>
                   </div>
                   <div class="member-social">
-                    <a href="#" class="btn btn-facebook btn-circle"></a>
-                    <a href="#" class="btn btn-twitter btn-circle"></a>
-                    <a href="#" class="btn btn-instagram btn-circle"></a>
+                  <a class="btn btn-linkedin btn-circle"></a>
                   </div>
 
                   <div class="left-text-align">
@@ -325,9 +319,7 @@
                     </p>
                   </div>
                   <div class="member-social">
-                    <a href="#" class="btn btn-facebook btn-circle"></a>
-                    <a href="#" class="btn btn-twitter btn-circle"></a>
-                    <a href="#" class="btn btn-instagram btn-circle"></a>
+                  <a class="btn btn-linkedin btn-circle"></a>
                   </div>
 
                   <div class="left-text-align">
@@ -358,9 +350,7 @@
                     </p>
                   </div>
                   <div class="member-social">
-                    <a href="#" class="btn btn-facebook btn-circle"></a>
-                    <a href="#" class="btn btn-twitter btn-circle"></a>
-                    <a href="#" class="btn btn-instagram btn-circle"></a>
+                    <a class="btn btn-linkedin btn-circle"></a>
                   </div>
 
                   <div class="left-text-align">
@@ -593,7 +583,7 @@
             <!-- Contact Info -->
             <div class="col-lg-10 pr-lg-5 pl-lg-5">
               <img src="images/index-app/pac-logo-png.png" alt="Phillips Akindele and Co">
-              <p class="mt-15">PPhillips Akindele & Co. provides audit and assurance services to its clients. This includes statutory and non-statutory audit as well as limited assurance assignments such as forensic audit. 
+              <p class="mt-15">Phillips Akindele & Co. provides audit and assurance services to its clients. This includes statutory and non-statutory audit as well as limited assurance assignments such as forensic audit. 
                 We perform the services complying with the provisions of the International Standards on Auditing. The services include reviewing, reporting and providing recommendations on the adequacy and effectiveness of 
                 existing accounting and internal control systems of our clients. We also provide tax advisory services assisting companies to achieve compliance with the provisions of the relevant tax and regulatory laws in 
                 Nigeria and in Africa at large. Our clients operate in a wide range of industries including; Fintech, law, brand & advertising, information technology, marine, haulage, insurance brokerage, 
