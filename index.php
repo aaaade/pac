@@ -568,7 +568,7 @@
                 <li><a  href="#hero"> Home</a></li>
                 <li><a  href="#key"> About</a></li>
                 <li><a  href="#about"> Why Us</a></li>        
-                <li><a class="nav-link" href="#team"><i class="fas fa-star"></i> Team</a></li>
+                <li><a  href="#team"> Team</a></li>
                 <li><a  href="#customers"> Customers</a></li>
                 <li><a  href="#contact"> Contact</a></li>
               </ul>
