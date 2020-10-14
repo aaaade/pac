@@ -20,8 +20,8 @@
 	</foreignObject>
 	<g i:extraneous="self">
 		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1315.47754" y1="-279.00488" x2="635.14343" y2="824.8797">
-			<stop  offset="0" style="stop-color:#FD90DA"/>
-			<stop  offset="1" style="stop-color:#8E6DFD"/>
+			<stop  offset="0" style="stop-color:#067CA6"/>
+			<stop  offset="1" style="stop-color:#067CA6"/>
 		</linearGradient>
 		<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M1374.68164,0H965.55615H-0.78027v351.63867
 			l89.9624,281.33594c56.0957,175.43262,246.93896,256.52441,434.81201,221.21387L1981,497.84961V0H1374.68164z"/>
