@@ -88,7 +88,7 @@
         </section>
 
         <!-- Key -->
-        <section id="key" class="text-center">
+        <section id="key" class="text-center" style="padding-top: 0px;">
           <div class="container">
             <div class="row">
                 
@@ -256,15 +256,15 @@
           </div>
         </section>
 
-        <section id="contact">
+        <section id="contact" style="padding-bottom: 0px;">
           <h4 style="text-align:center;" data-aos="zoom-in">Want to contact us?</h4>
           <div class="container">
             <div class="row">              
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.750100249321!2d3.4368073147702143!3d6.426144295350643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf53d70fa0c33%3A0x228beccf754870b8!2s315b%20Akin%20Ogunlewe%20Rd%2C%20Victoria%20Island%2C%20Lagos!5e0!3m2!1sen!2sng!4v1602603729037!5m2!1sen!2sng" width="1200" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               
               <div  style="text-align:center; width: 100%;">
-                <p>Telephone: 08033510318 |  07064171650 <br/>
-                Email: team@phillipsakindeleandco.com</p>
+                <p>Telephone: <a href="tel:08033510318">08033510318</a> |  <a href="tel:07064171650">07064171650</a> <br/>
+                Email: <a href="mailto:team@phillipsakindeleandco.com">team@phillipsakindeleandco.com</a></p>
             </div>
           </div>
         </section>
