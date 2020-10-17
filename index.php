@@ -234,9 +234,7 @@
                     <img src="images/index-app/clients/reelfruit.png" alt="Brand">
                   </div></div><div class="owl-item cloned active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down">
                     <img src="images/index-app/clients/sixth-gear.png" alt="Brand">
-                  </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="250">
-                    <img src="images/index-app/clients/05.png" alt="Brand">
-                  </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-angle-right"></i></button></div><div class="owl-dots disabled"></div></div><!-- / Brands Carousel -->
+                  </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-angle-right"></i></button></div><div class="owl-dots disabled"></div></div><!-- / Brands Carousel -->
               </div>
             </div>
           </div>
