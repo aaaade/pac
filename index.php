@@ -56,7 +56,7 @@
       <header class="nav-style-2">
         <nav class="pl-lg-5 pt-lg-3 navbar navbar-light">
           <a class="navbar-brand" href="index-app.html" style="margin-top:30px;">
-            <img src="images/index-app/pac-logo-png.png" alt="Phillips Akindele and Co">
+            <img src="images/index-app/pac-logo-white.png" alt="Phillips Akindele and Co">
           </a>
         </nav>
       </header>
@@ -211,45 +211,31 @@
                 <!-- Brands Carousel -->
                 <div id="owl-brands" class="owl-carousel owl-theme owl-loaded owl-drag">
                   <!-- Brand Item 1 -->
-                  
-                  <!-- Brand Item 2 -->
-                  
-                  <!-- Brand Item 3 -->
-                  
-                  <!-- Brand Item 4 -->
-                  
-                  <!-- Brand Item 5 -->
-                  
+                                    
                 <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1404px, 0px, 0px); transition: all 0.25s ease 0s; width: 3510px;"><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down">
-                    <img src="images/index-app/hero/01.png" alt="Brand">
+                    <img src="images/index-app/clients/brightstar.png" alt="Brand">
                   </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="100">
-                    <img src="images/index-app/hero/02.png" alt="Brand">
+                    <img src="images/index-app/clients/cowrywise.png" alt="Brand">
                   </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="150">
-                    <img src="images/index-app/hero/03.png" alt="Brand">
+                    <img src="images/index-app/clients/dalberg.png" alt="Brand">
                   </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="200">
-                    <img src="images/index-app/hero/04.png" alt="Brand">
+                    <img src="images/index-app/clients/duale-ovia.png" alt="Brand">
                   </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="250">
-                    <img src="images/index-app/hero/05.png" alt="Brand">
+                    <img src="images/index-app/clients/ekologosmall.png" alt="Brand">
                   </div></div><div class="owl-item" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down">
-                    <img src="images/index-app/hero/01.png" alt="Brand">
+                    <img src="images/index-app/clients/flutterwave.png" alt="Brand">
                   </div></div><div class="owl-item active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="100">
-                    <img src="images/index-app/hero/02.png" alt="Brand">
+                    <img src="images/index-app/clients/impact-foundation.png" alt="Brand">
                   </div></div><div class="owl-item active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="150">
-                    <img src="images/index-app/hero/03.png" alt="Brand">
+                    <img src="images/index-app/clients/philandmove.png" alt="Brand">
                   </div></div><div class="owl-item active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="200">
-                    <img src="images/index-app/hero/04.png" alt="Brand">
+                    <img src="images/index-app/clients/printivo.png" alt="Brand">
                   </div></div><div class="owl-item active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="250">
-                    <img src="images/index-app/hero/05.png" alt="Brand">
+                    <img src="images/index-app/clients/reelfruit.png" alt="Brand">
                   </div></div><div class="owl-item cloned active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down">
-                    <img src="images/index-app/hero/01.png" alt="Brand">
-                  </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="100">
-                    <img src="images/index-app/hero/02.png" alt="Brand">
-                  </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="150">
-                    <img src="images/index-app/hero/03.png" alt="Brand">
-                  </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="200">
-                    <img src="images/index-app/hero/04.png" alt="Brand">
+                    <img src="images/index-app/clients/sixth-gear.png" alt="Brand">
                   </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="250">
-                    <img src="images/index-app/hero/05.png" alt="Brand">
+                    <img src="images/index-app/clients/05.png" alt="Brand">
                   </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-angle-right"></i></button></div><div class="owl-dots disabled"></div></div><!-- / Brands Carousel -->
               </div>
             </div>
