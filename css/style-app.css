@@ -18494,7 +18494,7 @@
  h5,
  h6 {
      color: #282828;
-     font-family: "Nunito", sans-serif;
+     font-family: 'Open Sans', sans-serif;;
      font-weight: 800;
      letter-spacing: 0;
      line-height: 1.2;
@@ -20441,7 +20441,7 @@
  .counter .timer {
      line-height: 3rem;
      font-size: 2.5rem;
-     font-family: "Nunito", sans-serif;
+     font-family: 'Open Sans', sans-serif;;
      font-weight: 900
  }
  
@@ -21746,7 +21746,7 @@
  }
  
  .post-link a .post-link-text {
-     font-family: "Nunito", sans-serif;
+     font-family: 'Open Sans', sans-serif;;
      font-weight: 600;
      font-size: 1.32rem;
      margin-bottom: 10px;
@@ -21796,7 +21796,7 @@
      margin-top: 1rem;
      border: none;
      color: #9f9f9f;
-     font-family: "Nunito", sans-serif
+     font-family: 'Open Sans', sans-serif;
  }
  
  .post .post-meta span {
@@ -23245,7 +23245,7 @@
  }
  
  body {
-     font-family: "Nunito", sans-serif;
+     font-family: 'Open Sans', sans-serif;;
      font-weight: 400;
      font-size: 1.1rem;
      line-height: 1.9;
