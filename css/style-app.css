@@ -23306,7 +23306,7 @@
  .pac-about-us {
     background: #fff;
     border-radius: .5rem;
-    padding: 80px 60px 40px 60px;
+    padding: 40px 60px 40px 60px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.06), 0 3px 6px rgba(0, 0, 0, 0.09);
     -webkit-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
@@ -23316,3 +23316,19 @@
     margin: 40px 15px;
     text-align: center;
  }
+
+ .service-text {
+     min-height: 195px !important;
+ }
+
+ #team {
+     padding-bottom: 0px !important;
+ }
+
+.no-padding {
+    padding: 0px !important;
+}
+
+#contact {
+    padding-top: 0px !important;
+}

@@ -78,7 +78,7 @@
             <div class="row">
               <div class="offset-lg-2 col-lg-4 col-md-5 mb-lg-5 align-self-center">
                 <h3>PAC Audit and Tax Services</h3>
-                <p class="lead">Providing audit and assurance services to your business. This includes statutory and non-statutory audit as well as limited assurance assignments such as forensic audit.</p>
+                <p class="lead">Providing audit, assurance, tax, due diligence and other related professional services.</p>
               </div>
               <div class="offset-lg-1 col-lg-4 col-md-7 d-none d-md-block d-xl-block align-items-center">
                 <img src="images/index-app/hero/purple-people.svg" alt="Hero image" class="img-fluid" />
@@ -98,8 +98,9 @@
                     <p>Phillips Akindele & Co. provides audit and assurance services to its clients. This includes statutory and non-statutory audit as well as limited assurance assignments such as forensic audit. 
                       We perform the services complying with the provisions of the International Standards on Auditing. The services include reviewing, reporting and providing recommendations on the adequacy and 
                       effectiveness of existing accounting and internal control systems of our clients. We also provide tax advisory services assisting companies to achieve compliance with the provisions of the 
-                      relevant tax and regulatory laws in Nigeria and in  Africa at large.
-                      Our clients operate in a wide range of industries including; Fintech, law, brand & advertising, information technology, marine, haulage, insurance brokerage, oil & gas(downstream & upstream), 
+                      relevant tax and regulatory laws in Nigeria and in  Africa at large. Through Strategic Partnerships, we are currently present in 10 other African countries.</p>
+                      <p>&nbsp;</p>
+                      <p>Our clients operate in a wide range of industries including; Fintech, law, brand & advertising, information technology, marine, haulage, insurance brokerage, oil & gas(downstream & upstream), 
                       financial services, professional services, building and construction, entertainment, non-profit organizations, and real estate.</p>
                 </span>
               </div>
@@ -108,24 +109,24 @@
               <div class="col-lg-4" data-aos="fade-up">
                 <div class="service service-style-5" >
                   <img src="images/index-app/hero/simple-safe.png" class="img-fluid" alt="Services" />
-                  <h5 class="service-title">Forensic Audit</h5>
-                  <span class="service-text">An examination and evaluation of financial records to derive evidence that can be used in a court of law or legal proceeding.</span>
+                  <h5 class="service-title">Audit</h5>
+                  <span class="service-text"> Following the procedures stipulated by the International Auditing Standards and expressing an appropriate opinion on a set of financial statements.</span>
                 </div>
               </div>
               <!-- Key feature 2 -->
               <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="service service-style-5">
                   <img src="images/index-app/hero/easy-to-use.png" class="img-fluid" alt="Services" />
-                  <h5 class="service-title">Financial</h5>
-                  <span class="service-text">A process involves using an individual body for evaluating the financial transactions and statements of a business.</span>
+                  <h5 class="service-title">Tax</h5>
+                  <span class="service-text">An examination of the level of compliance based on the tax laws and other regulations in your jurisdiction and industry.</span>
                 </div>
               </div>
               <!-- Key feature 3 -->
               <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="service service-style-5">
                   <img src="images/index-app/hero/time-saving.png" class="img-fluid" alt="Services" />
-                  <h5 class="service-title">Tax</h5>
-                  <span class="service-text">An examination of your tax return by the Tax office in your state to verify that your income and deductions are accurate. </span>
+                  <h5 class="service-title">Other services</h5>
+                  <span class="service-text">This includes forensic audit, tax & financial due diligence, and other professional services.</span>
                 </div>
               </div>
             </div>
@@ -203,7 +204,7 @@
           </div>
         </section>
 
-        <section id="brands" class="bg-secondary text-white text-center py-5">
+        <section id="brands" class="bg-secondary text-white text-center py-5 no-padding">
           <div class="container">
             <div class="row">
               <div class="col">
