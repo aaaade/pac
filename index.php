@@ -77,7 +77,8 @@
           <div class="container-fluid">
             <div class="row">
               <div class="offset-lg-2 col-lg-4 col-md-5 mb-lg-5 align-self-center">
-                <h3>PAC Audit and Tax Services</h3>
+                <h3 style="margin-bottom:0px !important;">PAC</h3>
+                <h3 style="margin-top:0px !important;">Audit and Tax Services</h3>
                 <p class="lead">Providing audit, assurance, tax, due diligence and other related professional services.</p>
               </div>
               <div class="offset-lg-1 col-lg-4 col-md-7 d-none d-md-block d-xl-block align-items-center">
@@ -118,7 +119,7 @@
                 <div class="service service-style-5">
                   <img src="images/index-app/hero/easy-to-use.png" class="img-fluid" alt="Services" />
                   <h5 class="service-title">Tax</h5>
-                  <span class="service-text">An examination of the level of compliance based on the tax laws and other regulations in your jurisdiction and industry.</span>
+                  <span class="service-text">An examination of the level of compliance based on the tax laws and other regulations applicable to your jurisdiction and industry.</span>
                 </div>
               </div>
               <!-- Key feature 3 -->
@@ -233,6 +234,8 @@
                     <img src="images/index-app/clients/printivo.png" alt="Brand">
                   </div></div><div class="owl-item active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="250">
                     <img src="images/index-app/clients/reelfruit.png" alt="Brand">
+                  </div></div><div class="owl-item active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down" data-aos-delay="250">
+                    <img src="images/index-app/clients/sixth-gear.png" alt="Brand">
                   </div></div><div class="owl-item cloned active" style="width: 174px; margin-right: 60px;"><div class="item brand aos-init aos-animate" data-aos="flip-down">
                     <img src="images/index-app/clients/sixth-gear.png" alt="Brand">
                   </div></div><div class="owl-item cloned" style="width: 174px; margin-right: 60px;"></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-angle-right"></i></button></div><div class="owl-dots disabled"></div></div><!-- / Brands Carousel -->
