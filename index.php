@@ -270,7 +270,7 @@
             <h4 style="text-align:center;" data-aos="zoom-in">Want to contact us?</h4>
             <div class="container">
                <div class="row">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.552456848337!2d3.427354315255742!3d6.451453825785399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf4cf9a9228a9%3A0xeb66a75f66803cdb!2sRegus%20-%20Lagos%2C%20Mulliner%20Towers!5e0!3m2!1sen!2sng!4v1609753182662!5m2!1sen!2sng" width="1200" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.6793422775213!2d3.421580383745402!3d6.435216707585489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf5291758a28d%3A0xfb68765c4784ec78!2s1%20Engineering%20Close%2C%20Victoria%20Island%20106104%2C%20Lagos!5e0!3m2!1sen!2sng!4v1688461579042!5m2!1sen!2sng" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                   <div  style="text-align:center; width: 100%;">
                      <p>Telephone: <a href="tel:08033510318">08033510318</a> |  <a href="tel:07064171650">07064171650</a> <br/>
                         Email: <a href="mailto:team@phillipsakindeleandco.com">team@phillipsakindeleandco.com</a>
