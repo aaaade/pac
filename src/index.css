@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app-container {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.hero {
+  background-image: url("https://www.julius-berger-int.com/fileadmin/_processed_/a/c/csm_csm_julius_berger_international_referenz_lekki-ikoyi-bridge_08_ebba23cdee.jpg");
+  height: calc(100vh - 112px);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.team {
+  background-image: url("./images/team.jpg");
+  height: calc(100vh - 112px);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.owl-prev,
+.owl-next {
+  font-size: 30px !important;
+  padding: 5px 10px !important;
+}
