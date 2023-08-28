@@ -21,6 +21,13 @@
   background-size: cover;
 }
 
+@media (max-width: 600px) {
+  .team {
+    height: 100%;
+    background-position: bottom;
+  }
+}
+
 .owl-prev,
 .owl-next {
   font-size: 30px !important;

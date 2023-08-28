@@ -25,7 +25,7 @@ function Testimonial() {
   return (
     <div className="my-[3rem]">
       <div className="app-container">
-        <div className="mx-auto w-[80%]">
+        <div className="mx-auto w-full md:w-[80%]">
           <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[2rem] font-medium">
             Testimonials
           </h3>

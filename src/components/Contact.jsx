@@ -18,7 +18,7 @@ function Contact() {
             referrerpolicy="no-referrer-when-downgrade"
             className="!w-full"
           ></iframe>
-          <div className="w-full text-center">
+          <div className="w-full text-center mt-8">
             <p>
               Telephone: <a href="tel:08033510318">08033510318</a> |{" "}
               <a href="tel:07064171650">07064171650</a> <br />

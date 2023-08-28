@@ -7,12 +7,12 @@ function About() {
   return (
     <div className="my-[3rem]">
       <div className="app-container">
-        <div className="mx-auto w-[80%]">
+        <div className="mx-auto w-full md:w-[80%]">
           <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[2rem] font-medium">
             About Us
           </h3>
           <div className="text-center">
-            <p className="mb-[3rem] text-[1.3rem]">
+            <p className="mb-[3rem] text-[1rem] md:text-[1.3rem]">
               Phillips Akindele & Co. provides audit and assurance services to
               its clients. This includes statutory and non-statutory audit as
               well as limited assurance assignments such as forensic audit. We
@@ -26,7 +26,7 @@ function About() {
               large. Through Strategic Partnerships, we are currently present in
               10 other African countries.
             </p>
-            <p className=" text-[1.3rem]">
+            <p className="text-[1rem] md:text-[1.3rem]">
               Our clients operate in a wide range of industries including;
               Fintech, law, brand & advertising, information technology, marine,
               haulage, insurance brokerage, oil & gas(downstream & upstream),
@@ -35,7 +35,7 @@ function About() {
               estate.
             </p>
           </div>
-          <div className="mx[5px] my-[2rem] grid grid-cols-3 gap-[2rem]">
+          <div className="mx[5px] my-[2rem] grid grrid-cols-1 md:grid-cols-3 gap-[2rem]">
             <div className="flex flex-col items-center rounded-[1rem] bg-[#067CA6] p-[2rem] text-center text-white">
               <img src={audit} alt="" className="w-[10rem]" />
               <h4 className="text-[1.5rem] font-semibold">Audit</h4>
