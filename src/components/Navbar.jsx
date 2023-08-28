@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import menu from "../images/menu.png";
 
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
