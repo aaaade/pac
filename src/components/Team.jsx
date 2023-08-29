@@ -16,7 +16,7 @@ function Team() {
             data-aos="fade-right"
             className="mx-auto mt-[2rem] w-full md:w-[80%] md:mt-[5rem]"
           >
-            <p className="w-full text-[1.3rem] md:w-[600px]">
+            <p className="w-full text-[1rem] md:text-[1.3rem] tracking-[.5px] md:w-[600px]">
               We are made up of a group of dynamic result driven people, who are
               key to delivering our purpose. Our people culture is hinged on
               creating an atmosphere where our people can be the best they can
@@ -31,7 +31,7 @@ function Team() {
             <p
               data-aos="fade-up"
               data-aos-delay="300"
-              className="w-full text-[1.3rem] md:w-[600px]"
+              className="w-full text-[1rem] md:text-[1.3rem] tracking-[.5px] md:w-[600px]"
             >
               Our purpose - to be a positive lasting impact in our industry and
               society, by contributing our quota to solving important problems.
