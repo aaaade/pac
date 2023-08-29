@@ -27,7 +27,7 @@ function Navbar() {
                     key={link}
                     className="h-[80px] cursor-pointer text-[1rem] font-light uppercase leading-[80px] text-white hover:mt-[-7px] hover:border-t-8"
                   >
-                    <a href={`/#${link.replace(" ", "")}`}>{link}</a>
+                    <a href={`#${link.replace(" ", "")}`}>{link}</a>
                   </li>
                 ))}
               </ul>
@@ -87,7 +87,7 @@ function Navbar() {
                 className="text-[1.1rem] font-light uppercase text-black hover:text-[#067CA6]"
               >
                 <a
-                  href={`/#${link.replace(" ", "")}`}
+                  href={`#${link.replace(" ", "")}`}
                   onClick={toggleMobileMenu}
                 >
                   {link}
