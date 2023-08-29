@@ -14,7 +14,7 @@ function Team() {
           </h3>
           <div
             data-aos="fade-right"
-            className="mx-auto mt-[2rem] w-[80%] md:mt-[5rem]"
+            className="mx-auto mt-[2rem] w-full md:w-[80%] md:mt-[5rem]"
           >
             <p className="w-full text-[1.3rem] md:w-[600px]">
               We are made up of a group of dynamic result driven people, who are
