@@ -26,7 +26,7 @@ function Testimonial() {
     <div className="my-[3rem]" id="testimonials">
       <div className="app-container">
         <div className="mx-auto w-full md:w-[80%]">
-          <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[2rem] font-medium">
+        <h3 data-aos="fade-up" className="mx-auto mb-[1rem] pb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] md:text-[4rem] font-[400]">
             Testimonials
           </h3>
           <OwlCarousel className="owl-theme" {...options}>

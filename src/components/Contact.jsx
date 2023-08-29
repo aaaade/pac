@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
   return (
     <section id="contact" className="app-container">
-     <h3 className="mb-[1rem] text-center text-[2rem] font-medium">
+  <h3 data-aos="fade-up" className="mx-auto mb-[1rem] pb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] md:text-[4rem] font-[400]">
          Want to contact us?
         </h3>
       <div class="">

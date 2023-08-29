@@ -25,7 +25,7 @@ function Navbar() {
                 {navLink.map((link) => (
                   <li
                     key={link}
-                    className="h-[80px] cursor-pointer text-[1.1rem] font-light uppercase leading-[80px] text-white hover:mt-[-7px] hover:border-t-8"
+                    className="h-[80px] cursor-pointer text-[1rem] font-light uppercase leading-[80px] text-white hover:mt-[-7px] hover:border-t-8"
                   >
                     <a href={`/#${link.replace(" ", "")}`}>{link}</a>
                   </li>
@@ -46,7 +46,12 @@ function Navbar() {
               >
                 08033510318 | 07064171650
               </strong>
-              <p>Phillips Akindele & Co.</p>
+              <p
+                style={{ fontFamily: "eb-garamond-08-italic" }}
+                className="italic"
+              >
+                Phillips Akindele & Co.
+              </p>
             </div>
             <div className="block  cursor-pointer md:hidden">
               {isMobileMenuOpen ? (

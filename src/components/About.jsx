@@ -8,11 +8,11 @@ function About() {
     <div className="my-[3rem]"  id="about">
       <div className="app-container">
         <div className="mx-auto w-full md:w-[80%]">
-          <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[2rem] font-medium">
+          <h3 data-aos="fade-up" className="mx-auto mb-[1rem] pb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] md:text-[4rem] font-[400]">
             About Us
           </h3>
-          <div className="text-center">
-            <p className="mb-[3rem] text-[1rem] md:text-[1.3rem]">
+          <div className="text-center" data-aos="fade-up">
+            <p className="mb-[3rem] text-[1rem] md:text-[1.3rem] tracking-[.5px]">
               Phillips Akindele & Co. provides audit and assurance services to
               its clients. This includes statutory and non-statutory audit as
               well as limited assurance assignments such as forensic audit. We
@@ -36,7 +36,7 @@ function About() {
             </p>
           </div>
           <div className="mx[5px] my-[2rem] grid grrid-cols-1 md:grid-cols-3 gap-[2rem]">
-            <div className="flex flex-col items-center rounded-[1rem] bg-[#067CA6] p-[2rem] text-center text-white">
+            <div data-aos="fade-left" className="flex flex-col items-center rounded-[1rem] bg-[#067CA6] p-[2rem] text-center text-white">
               <img src={audit} alt="" className="w-[10rem]" />
               <h4 className="text-[1.5rem] font-semibold">Audit</h4>
               <p>
@@ -45,7 +45,7 @@ function About() {
                 set of financial statements.
               </p>
             </div>
-            <div className="flex flex-col items-center rounded-[1rem] bg-[#067CA6] p-[2rem] text-center text-white">
+            <div data-aos="fade-left" data-aos-delay="300" className="flex flex-col items-center rounded-[1rem] bg-[#067CA6] p-[2rem] text-center text-white">
               <img src={tax} alt="" className="w-[10rem]" />
               <h4 className="text-[1.5rem] font-semibold">Tax</h4>
               <p>
@@ -54,7 +54,7 @@ function About() {
                 industry.
               </p>
             </div>
-            <div className="flex flex-col items-center rounded-[1rem] bg-[#067CA6] p-[2rem] text-center text-white">
+            <div data-aos="fade-left" data-aos-delay="600" className="flex flex-col items-center rounded-[1rem] bg-[#067CA6] p-[2rem] text-center text-white">
               <img src={others} alt="" className="w-[10rem]" />
               <h4 className="text-[1.5rem] font-semibold">Other services</h4>
               <p>
