@@ -1,3 +1,4 @@
+import { useState } from "react";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -9,9 +10,10 @@ import Testimonial from "./components/Testimonial";
 import WhyUs from "./components/WhyUs";
 
 function App() {
+  const [activeSection, setActiveSection] = useState(null);
   return (
     <>
-      <Navbar />
+      <Navbar activeSection={activeSection} setActiveSection={setActiveSection} />
       <Hero />
       <About />
       {/* <WhyUs />

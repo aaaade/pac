@@ -2,7 +2,7 @@ import React from "react";
 
 function Team() {
   return (
-    <div className="team">
+    <div className="team" id="team">
       <div className="app-container">
         <div className="py-[3rem]">
           <h3 className="mx-auto w-fit border-b-4 border-white text-center text-[2rem] text-[#067CA6]">

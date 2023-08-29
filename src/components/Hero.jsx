@@ -2,7 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <div className="hero">
+    <div className="hero" id="home">
       <div className="app-container">Hero</div>
     </div>
   );

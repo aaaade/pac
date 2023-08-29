@@ -5,7 +5,7 @@ import others from "../images/time-saving.png";
 
 function About() {
   return (
-    <div className="my-[3rem]">
+    <div className="my-[3rem]"  id="about">
       <div className="app-container">
         <div className="mx-auto w-full md:w-[80%]">
           <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[2rem] font-medium">

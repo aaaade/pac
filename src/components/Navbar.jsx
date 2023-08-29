@@ -8,9 +8,9 @@ function Navbar() {
   };
 
   return (
-    <div>
+    <div className="sticky top-0 z-50">
       {/* Mobile Menu Button */}
-      <div className="sticky top-0 z-50 bg-[#067CA6] py-[1rem]">
+      <div className=" bg-[#067CA6] py-[1rem]">
         <header className="app-container">
           <div className="flex items-center justify-between">
             <div>
@@ -34,8 +34,16 @@ function Navbar() {
             </nav>
             <div className="hidden text-right text-white md:block">
               {/* Your contact info */}
-              <p>Lagos, Nigeria</p>
-              <strong className="text-[1.2rem]">
+              <p
+                style={{ fontFamily: "eb-garamond-08-italic" }}
+                className="italic"
+              >
+                Lagos, Nigeria
+              </p>
+              <strong
+                className="text-[1.2rem] font-bold"
+                style={{ fontFamily: "Nunito" }}
+              >
                 08033510318 | 07064171650
               </strong>
               <p>Phillips Akindele & Co.</p>
@@ -43,7 +51,7 @@ function Navbar() {
             <div className="block  cursor-pointer md:hidden">
               {isMobileMenuOpen ? (
                 <button
-                  className="text-5xl text-white font-bold"
+                  className="text-5xl font-bold text-white"
                   onClick={toggleMobileMenu}
                 >
                   &times;
@@ -90,4 +98,4 @@ function Navbar() {
 
 export default Navbar;
 
-const navLink = ["home", "about", "why us", "team", "client", "contact"];
+const navLink = ["home", "about", "why us", "team", "testimonials", "contact"];
