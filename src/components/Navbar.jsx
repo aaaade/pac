@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <div className="sticky top-0 z-50">
       {/* Mobile Menu Button */}
-      <div className=" bg-[#067CA6] py-[1rem]">
+      <div className=" bg-[#009FE3] py-[1rem]">
         <header className="app-container">
           <div className="flex items-center justify-between">
             <div>
@@ -21,11 +21,11 @@ function Navbar() {
             </div>
             <nav className="hidden md:block">
               {/* Your desktop navigation */}
-              <ul className="flex gap-[3rem]">
+              <ul className="flex gap-[1rem]">
                 {navLink.map((link) => (
                   <li
                     key={link}
-                    className="h-[80px] cursor-pointer text-[1rem] font-light uppercase leading-[80px] text-white hover:mt-[-7px] hover:border-t-8"
+                    className="h-[80px] cursor-pointer text-[.9rem] font-light uppercase leading-[80px] text-white hover:mt-[-7px] hover:border-t-8"
                   >
                     <a href={`#${link.replace(" ", "")}`}>{link}</a>
                   </li>
@@ -41,7 +41,7 @@ function Navbar() {
                 Lagos, Nigeria
               </p>
               <strong
-                className="text-[1.2rem] font-bold"
+                className="text-[1.2rem] font-bold text-[#0D1A3C]"
                 style={{ fontFamily: "Nunito" }}
               >
                 08033510318 | 07064171650

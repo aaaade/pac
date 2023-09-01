@@ -22,8 +22,8 @@ function App() {
       <Navbar activeSection={activeSection} setActiveSection={setActiveSection} />
       <Hero />
       <About />
-      {/* <WhyUs />
-      <Services /> */}
+      <WhyUs />
+      {/* <Services /> */}
       <Team />
       <Testimonial />
       <Contact />

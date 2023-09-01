@@ -3,9 +3,12 @@ import React from "react";
 function Contact() {
   return (
     <section id="contact" className="app-container">
-  <h3 data-aos="fade-up" className="mx-auto mb-[1rem] pb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] md:text-[4rem] font-[400]">
-         Want to contact us?
-        </h3>
+      <h3
+        data-aos="fade-up"
+        className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] pb-[1rem] text-center text-[3rem] font-[400] text-[#0D1A3C] md:text-[4rem]"
+      >
+        Want to contact us?
+      </h3>
       <div class="">
         <div class="">
           <iframe
@@ -18,7 +21,7 @@ function Contact() {
             referrerpolicy="no-referrer-when-downgrade"
             className="!w-full"
           ></iframe>
-          <div className="w-full text-center mt-8">
+          <div className="mt-8 w-full text-center">
             <p>
               Telephone: <a href="tel:08033510318">08033510318</a> |{" "}
               <a href="tel:07064171650">07064171650</a> <br />

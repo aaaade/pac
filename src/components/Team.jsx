@@ -6,10 +6,7 @@ function Team() {
       <div className="md:hidden absolute inset-0 bg-[#f1f5f6] opacity-50"></div>
       <div className="app-container relative">
         <div className="py-[3rem]">
-          <h3
-            data-aos="fade-up"
-            className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] pb-[1rem] text-center text-[3rem] font-[400] md:text-[4rem]"
-          >
+        <h3 data-aos="fade-up" className="mx-auto mb-[1rem] pb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] md:text-[4rem] font-[400] text-[#0D1A3C]">
             Meet Our Team
           </h3>
           <div
