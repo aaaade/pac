@@ -13,7 +13,7 @@ function WhyUs() {
             Why Us
           </h3>
           <div className="space-y-[2rem] text-white">
-            <div>
+            <div data-aos="fade-right">
               <h4
                 // data-aos="fade-up"
                 className="mb-[rem] w-fit text-[1.4rem] font-[400] md:text-[2rem]"
@@ -31,7 +31,7 @@ function WhyUs() {
                 your objectives.
               </p>
             </div>
-            <div className="text-right">
+            <div className="text-right" data-aos="fade-left">
               <h4
                 // data-aos="fade-up"
                 className="mb-[rem] text-[1.4rem] font-[400] md:text-[2rem] text-right"
@@ -49,7 +49,7 @@ function WhyUs() {
                 your objectives.
               </p>
             </div>
-            <div>
+            <div data-aos="fade-right">
               <h4
                 // data-aos="fade-up"
                 className="mb-[rem] w-fit text-[1.4rem] font-[400] md:text-[2rem]"

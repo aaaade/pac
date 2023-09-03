@@ -3,7 +3,7 @@ import React from "react";
 function Team() {
   return (
     <div className="team relative" id="team">
-      <div className="md:hidden absolute inset-0 bg-[#f1f5f6] opacity-50"></div>
+      <div className=" absolute inset-0 bg-[#f1f5f6] opacity-50"></div>
       <div className="app-container relative">
         <div className="py-[3rem]">
         <h3 data-aos="fade-up" className="mx-auto mb-[1rem] pb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] md:text-[4rem] font-[400] text-[#0D1A3C]">
@@ -11,7 +11,7 @@ function Team() {
           </h3>
           <div
             data-aos="fade-right"
-            className="mx-auto mt-[2rem] w-full md:w-[80%] md:mt-[5rem]"
+            className="mx-auto mt-[2rem] w-full md:w-[80%] md:mt-[4rem]"
           >
             <p className="w-full text-[1rem] md:text-[1.3rem] tracking-[.5px] md:w-[600px]">
               We are made up of a group of dynamic result driven people, who are

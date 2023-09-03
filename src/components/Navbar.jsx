@@ -25,7 +25,7 @@ function Navbar() {
                 {navLink.map((link) => (
                   <li
                     key={link}
-                    className="h-[80px] cursor-pointer text-[.9rem] font-light uppercase leading-[80px] text-white hover:mt-[-7px] hover:border-t-8"
+                    className="h-[80px] cursor-pointer text-[.9rem] font-light uppercase leading-[80px] text-white hover:mt-[-7.5px] hover:border-t-8"
                   >
                     <a href={`#${link.replace(" ", "")}`}>{link}</a>
                   </li>

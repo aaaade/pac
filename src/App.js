@@ -10,6 +10,7 @@ import Testimonial from "./components/Testimonial";
 import WhyUs from "./components/WhyUs";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import Tiag from "./components/Tiag";
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
       <Team />
       <Testimonial />
       <Contact />
+      <Tiag/>
       <Footer />
     </>
   );
