@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import logo from "../images/logo1.jpg"
 
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -10,13 +11,14 @@ function Navbar() {
   return (
     <div className="sticky top-0 z-50">
       {/* Mobile Menu Button */}
-      <div className=" bg-[#009FE3] py-[1rem]">
+      <div className=" bg-white  py-[1rem] shadow-md">
         <header className="app-container">
           <div className="flex items-center justify-between">
-            <div>
+            <div className="">
               <img
-                src="https://phillipsakindeleandco.com/images/index-app/pac-logo-white.png"
+                src={logo}
                 alt="Phillips Akindele and Co"
+                width={150}
               />
             </div>
             <nav className="hidden md:block">
@@ -25,14 +27,14 @@ function Navbar() {
                 {navLink.map((link) => (
                   <li
                     key={link}
-                    className="h-[80px] cursor-pointer text-[.9rem] font-light uppercase leading-[80px] text-white hover:mt-[-7.5px] hover:border-t-8"
+                    className="h-[80px] cursor-pointer text-[.9rem] font-light uppercase leading-[80px]  hover:mt-[-7.5px] hover:border-t-8"
                   >
                     <a href={`#${link.replace(" ", "")}`}>{link}</a>
                   </li>
                 ))}
               </ul>
             </nav>
-            <div className="hidden text-right text-white md:block">
+            <div className="hidden text-right md:block">
               {/* Your contact info */}
               <p
                 style={{ fontFamily: "eb-garamond-08-italic" }}
@@ -56,16 +58,16 @@ function Navbar() {
             <div className="block  cursor-pointer md:hidden">
               {isMobileMenuOpen ? (
                 <button
-                  className="text-5xl font-bold text-white"
+                  className="text-5xl font-bold text-[#009FE3]"
                   onClick={toggleMobileMenu}
                 >
                   &times;
                 </button>
               ) : (
                 <button onClick={toggleMobileMenu} className="space-y-1">
-                  <span className="block h-1 w-8 rounded-md bg-white"></span>
-                  <span className="block h-1 w-8 rounded-md bg-white"></span>
-                  <span className="block h-1 w-8 rounded-md bg-white"></span>
+                  <span className="block h-1 w-8 rounded-md bg-[#009FE3]"></span>
+                  <span className="block h-1 w-8 rounded-md bg-[#009FE3]"></span>
+                  <span className="block h-1 w-8 rounded-md bg-[#009FE3]"></span>
                 </button>
               )}
             </div>
