@@ -18,7 +18,7 @@ function Contact() {
         Want to contact us?
       </h3>
       <div class="mx-auto grid w-[80%] grid-cols-1 md:grid-cols-4 gap-[1rem]">
-        <div className="w-full bg-[#009FE3] p-4 text-center text-white">
+        <div className="w-full bg-[#009FE3] p-4 text-center text-white" data-aos="fade-up">
           <img
             src={location}
             alt=""
@@ -27,7 +27,7 @@ function Contact() {
           <h3 className="my-[1rem] font-bold">OUR MAIN OFFICE</h3>
           <p>1 Engineering Close, Victoria Island 106104, Lagos</p>
         </div>
-        <div className="w-full bg-[#009FE3] p-4 text-center text-white">
+        <div className="w-full bg-[#009FE3] p-4 text-center text-white" data-aos="fade-up" data-aos-delay="300">
           <img
             src={phone}
             alt=""
@@ -39,7 +39,7 @@ function Contact() {
             07064171650
           </p>
         </div>
-        <div className="w-full bg-[#009FE3] p-4 text-center text-white">
+        <div className="w-full bg-[#009FE3] p-4 text-center text-white" data-aos="fade-up" data-aos-delay="600">
           <img
             src={mail}
             alt=""
@@ -48,7 +48,7 @@ function Contact() {
           <h3 className="my-[1rem] font-bold">EMAIL</h3>
           <p className="break-all">team@phillipsakindeleandco.com</p>
         </div>
-        <div className="w-full bg-[#009FE3] p-4 text-center text-white">
+        <div className="w-full bg-[#009FE3] p-4 text-center text-white" data-aos="fade-up" data-aos-delay="900">
           <img
             src={chat}
             alt=""
