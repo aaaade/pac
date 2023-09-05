@@ -11,7 +11,7 @@ function Navbar() {
   return (
     <div className="sticky top-0 z-50">
       {/* Mobile Menu Button */}
-      <div className=" bg-white  py-[1rem] shadow-md">
+      <div className=" bg-white  py-[.5rem] shadow-md">
         <header className="app-container">
           <div className="flex items-center justify-between">
             <div className="">
