@@ -18,11 +18,11 @@ body {
 }
 
 .hero {
-  background-image: url("./images/bridge.webp");
+  background-image: url("./images/bridge.png");
   height: calc(100vh - 112px);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: right right;
 }
 
 .team {
