@@ -3,10 +3,10 @@ import location from "../images/location.png";
 import phone from "../images/phone.png";
 import mail from "../images/mail.png";
 import chat from "../images/chat.png";
-import fb from "../images/fb.png";
-import insta from "../images/insta.png";
-import tw from "../images/tw.png";
-import link from "../images/link.png";
+import fb from "../images/fb-black.png";
+import insta from "../images/insta-black.png";
+import tw from "../images/tw-black.png";
+import link from "../images/link-black.png";
 
 function Contact() {
   return (
@@ -20,7 +20,7 @@ function Contact() {
       <div class="mx-auto grid w-[80%]">
         <div className="flex items-center justify-center text-center italic">
           <span className="border-r border-black pr-4 text-[1.2rem] text-[#067CA6]">
-          Dependable Independent Professionals
+            Dependable Independent Professionals
           </span>
           <span className="ml-4 flex items-center gap-2">
             <p className="text-[1.2rem] italic text-[#067CA6]">Telephone:</p>
@@ -30,9 +30,40 @@ function Contact() {
         <div className="mt-[2rem] text-center text-[1.2rem]">
           <p>Philips Akindele & Co</p>
           <p>1 Engineering Close, Victoria Island 106104, Lagos</p>
-          <span className="flex justify-center items-center gap-2">
-          <p className=" italic text-[#067CA6]">Email:</p> <p>team@phillipsakindeleandco.com</p>
+          <span className="flex items-center justify-center gap-2">
+            <p className=" italic text-[#067CA6]">Email:</p>{" "}
+            <p>team@phillipsakindeleandco.com</p>
           </span>
+          <div className="mt-[2rem]">
+            <ul className="flex cursor-pointer items-center justify-center gap-6 text-[1rem] font-normal text-white">
+              <li>
+                <a
+                  href="https://www.facebook.com/PortersWorldConsult/?modal=admin_todo_tour"
+                  _target="blank"
+                >
+                  <img src={fb} alt="" className="w-[1rem]" />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/pwconsult/" _target="blank">
+                  <img src={insta} alt="" className="w-[1.5rem]" />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/company/porter's-world-consult/"
+                  _target="blank"
+                >
+                  <img src={link} alt="" className="w-[1.5rem]" />
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/PWConsult_" _target="blank">
+                  <img src={tw} alt="" className="w-[1.5rem]" />
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
         {/* <div className="w-full bg-[#009FE3] p-4 text-center text-white" data-aos="fade-up">
           <img
@@ -101,16 +132,6 @@ function Contact() {
               </li>
             </ul>
           </div>
-        </div> */}
-        {/* <div className="mt-8 w-full text-center">
-            <p>
-              Telephone: <a href="tel:08033510318">08033510318</a> |{" "}
-              <a href="tel:07064171650">07064171650</a> <br />
-              Email:{" "}
-              <a href="mailto:team@phillipsakindeleandco.com">
-                team@phillipsakindeleandco.com
-              </a>
-            </p>
         </div> */}
       </div>
     </section>
