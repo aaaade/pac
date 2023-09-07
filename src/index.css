@@ -18,16 +18,17 @@ body {
 }
 
 .hero {
-  background-image: url("./images/bridge.png");
+  background-image: url("./images/hero1.jpeg");
   height: calc(100vh - 112px);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: right right;
+  background-position: center;
 }
 
 .team {
-  background-image: url("./images/team.jpg");
+  /* background-image: url("./images/team.jpg"); */
   /* height: calc(100vh - 112px); */
+  background-color: white;
   background-repeat: no-repeat;
   background-size: cover;
 }

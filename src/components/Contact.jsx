@@ -17,8 +17,24 @@ function Contact() {
       >
         Want to contact us?
       </h3>
-      <div class="mx-auto grid w-[80%] grid-cols-1 md:grid-cols-4 gap-[1rem]">
-        <div className="w-full bg-[#009FE3] p-4 text-center text-white" data-aos="fade-up">
+      <div class="mx-auto grid w-[80%]">
+        <div className="flex items-center justify-center text-center italic">
+          <span className="border-r border-black pr-4 text-[1.2rem] text-[#067CA6]">
+          Dependable Independent Professionals
+          </span>
+          <span className="ml-4 flex items-center gap-2">
+            <p className="text-[1.2rem] italic text-[#067CA6]">Telephone:</p>
+            <p>08033510318/07064171650</p>
+          </span>
+        </div>
+        <div className="mt-[2rem] text-center text-[1.2rem]">
+          <p>Philips Akindele & Co</p>
+          <p>1 Engineering Close, Victoria Island 106104, Lagos</p>
+          <span className="flex justify-center items-center gap-2">
+          <p className=" italic text-[#067CA6]">Email:</p> <p>team@phillipsakindeleandco.com</p>
+          </span>
+        </div>
+        {/* <div className="w-full bg-[#009FE3] p-4 text-center text-white" data-aos="fade-up">
           <img
             src={location}
             alt=""
@@ -46,7 +62,7 @@ function Contact() {
             className="mx-auto w-[1.5rem] text-center"
           />
           <h3 className="my-[1rem] font-bold">EMAIL</h3>
-          <p className="break-all">team@phillipsakindeleandco.com</p>
+          <p className="break-all text-[.8rem]">team@phillipsakindeleandco.com</p>
         </div>
         <div className="w-full bg-[#009FE3] p-4 text-center text-white" data-aos="fade-up" data-aos-delay="900">
           <img
@@ -85,7 +101,7 @@ function Contact() {
               </li>
             </ul>
           </div>
-        </div>
+        </div> */}
         {/* <div className="mt-8 w-full text-center">
             <p>
               Telephone: <a href="tel:08033510318">08033510318</a> |{" "}
