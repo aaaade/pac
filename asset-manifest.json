@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/pac/static/css/main.1df572fa.css",
-    "main.js": "/pac/static/js/main.f2082dfd.js",
+    "main.css": "/pac/static/css/main.01d8b021.css",
+    "main.js": "/pac/static/js/main.445bd31e.js",
     "static/js/787.f7208970.chunk.js": "/pac/static/js/787.f7208970.chunk.js",
     "static/media/Tax-amicoa.png": "/pac/static/media/Tax-amicoa.58eef07542b308d54baf.png",
     "static/media/others.png": "/pac/static/media/others.60eacf83502efeeac8ff.png",
     "static/media/Why-Us1.png": "/pac/static/media/Why-Us1.c43893f78b0a8faff072.png",
+    "static/media/Contact us-amico.png": "/pac/static/media/Contact us-amico.f6b8874384995472ff0a.png",
     "static/media/Audit-rafiki.png": "/pac/static/media/Audit-rafiki.3a056a4456d0d887a891.png",
     "static/media/team.png": "/pac/static/media/team.9609093aa4854ac94718.png",
     "static/media/hero.jpeg": "/pac/static/media/hero.69dabcc8c1572373a2fe.jpeg",
@@ -15,12 +16,12 @@
     "static/media/1.png": "/pac/static/media/1.4f3bccc7bd311f249374.png",
     "static/media/reel1.png": "/pac/static/media/reel1.755a0488fde0e2e2ce63.png",
     "index.html": "/pac/index.html",
-    "main.1df572fa.css.map": "/pac/static/css/main.1df572fa.css.map",
-    "main.f2082dfd.js.map": "/pac/static/js/main.f2082dfd.js.map",
+    "main.01d8b021.css.map": "/pac/static/css/main.01d8b021.css.map",
+    "main.445bd31e.js.map": "/pac/static/js/main.445bd31e.js.map",
     "787.f7208970.chunk.js.map": "/pac/static/js/787.f7208970.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1df572fa.css",
-    "static/js/main.f2082dfd.js"
+    "static/css/main.01d8b021.css",
+    "static/js/main.445bd31e.js"
   ]
 }
