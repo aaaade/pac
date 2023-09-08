@@ -10,28 +10,28 @@ import link from "../images/link-black.png";
 
 function Contact() {
   return (
-    <section id="contact" className="app-container">
+    <section id="contact" className="app-container !mt-[4rem]">
       <h3
-        data-aos="fade-up"
-        className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] font-[600] text-[#0D1A3C] md:text-[3rem]"
+        
+        className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[1.5rem] font-[600] text-[#0D1A3C] md:text-[2rem]"
       >
         Want to contact us?
       </h3>
       <div class="mx-auto grid w-[80%]">
         <div className="flex items-center justify-center text-center italic">
-          <span className="border-r border-black pr-4 text-[1.2rem] text-[#067CA6]">
-            Dependable Independent Professionals
+          <span className="border-r border-black pr-4 text-[1.2rem] ">
+          A member of TIAG, TAG Alliances
           </span>
           <span className="ml-4 flex items-center gap-2">
-            <p className="text-[1.2rem] italic text-[#067CA6]">Telephone:</p>
+            <p className="text-[1.2rem] italic ">Telephone:</p>
             <p>08033510318/07064171650</p>
           </span>
         </div>
         <div className="mt-[2rem] text-center text-[1.2rem]">
-          <p>Philips Akindele & Co</p>
+          <p>Phillips Akindele & Co.</p>
           <p>1 Engineering Close, Victoria Island 106104, Lagos</p>
           <span className="flex items-center justify-center gap-2">
-            <p className=" italic text-[#067CA6]">Email:</p>{" "}
+            <p className=" italic ">Email:</p>{" "}
             <p>team@phillipsakindeleandco.com</p>
           </span>
           <div className="mt-[2rem]">
@@ -41,12 +41,12 @@ function Contact() {
                   href="https://www.facebook.com/PortersWorldConsult/?modal=admin_todo_tour"
                   _target="blank"
                 >
-                  <img src={fb} alt="" className="w-[1rem]" />
+                  <img src={fb} alt="" className="w-[.8rem]" />
                 </a>
               </li>
               <li>
                 <a href="https://www.instagram.com/pwconsult/" _target="blank">
-                  <img src={insta} alt="" className="w-[1.5rem]" />
+                  <img src={insta} alt="" className="w-[1.2rem]" />
                 </a>
               </li>
               <li>
@@ -54,12 +54,12 @@ function Contact() {
                   href="https://www.linkedin.com/company/porter's-world-consult/"
                   _target="blank"
                 >
-                  <img src={link} alt="" className="w-[1.5rem]" />
+                  <img src={link} alt="" className="w-[1.2rem]" />
                 </a>
               </li>
               <li>
                 <a href="https://twitter.com/PWConsult_" _target="blank">
-                  <img src={tw} alt="" className="w-[1.5rem]" />
+                  <img src={tw} alt="" className="w-[1.2rem]" />
                 </a>
               </li>
             </ul>

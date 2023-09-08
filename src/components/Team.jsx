@@ -8,8 +8,8 @@ function Team() {
       <div className="app-container relative">
         <div className="py-[3rem] w-full md:w-[80%] mx-auto">
           <h3
-            data-aos="fade-up"
-            className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] font-[600] text-[#0D1A3C] md:text-[3rem]"
+            
+            className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[1.5rem] font-[600] text-[#0D1A3C] md:text-[2rem]"
           >
             Meet Our Team
           </h3>

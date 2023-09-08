@@ -1,43 +1,41 @@
 import React from "react";
-import audit from "../images/3.png";
-import tax from "../images/tax.png";
-import others from "../images/services.png";
+import audit from "../images/Audit-rafiki.png";
+import tax from "../images/Tax-amicoa.png";
+import others from "../images/others.png";
 
 function About() {
   return (
-    <div className="my-[3rem] relative"  id="about">
+    <div className="relative my-[3rem] mt-[6rem]" id="about">
       <div className="app-container">
         <div className="mx-auto w-full md:w-[80%]">
-          <h3 data-aos="fade-up" className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] md:text-[3rem] font-[600] text-[#0D1A3C]">
+          <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[3rem] font-[600] text-[#0D1A3C] md:text-[2rem]">
             About Us
           </h3>
           <div className="text-center text-[#666566]" data-aos="fade-up">
-            <p className="mb-[3rem] text-[1rem] md:text-[1.3rem] tracking-[.5px]">
-              Phillips Akindele & Co. provides audit and assurance services to
-              its clients. This includes statutory and non-statutory audit as
-              well as limited assurance assignments such as forensic audit. We
-              perform the services complying with the provisions of the
-              International Standards on Auditing. The services include
-              reviewing, reporting and providing recommendations on the adequacy
-              and effectiveness of existing accounting and internal control
-              systems of our clients. We also provide tax advisory services
-              assisting companies to achieve compliance with the provisions of
-              the relevant tax and regulatory laws in Nigeria and in Africa at
-              large. Through Strategic Partnerships, we are currently present in
-              10 other African countries.
+            <p className="mb-[1rem] text-[1rem] tracking-[.5px] md:text-[1.1rem]">
+              At Phillips Akindele & Co., we specialize in audit and assurance
+              services. With a foundation established in 2013, we've proudly
+              partnered with over 200 clients across a range of industries in
+              Africa.
             </p>
-            <p className="text-[1rem] md:text-[1.3rem]">
-              Our clients operate in a wide range of industries including;
-              Fintech, law, brand & advertising, information technology, marine,
-              haulage, insurance brokerage, oil & gas(downstream & upstream),
-              financial services, professional services, building and
-              construction, entertainment, non-profit organizations, and real
-              estate.
+            <p className=" mb-[1rem] text-[1rem] tracking-[.5px] md:text-[1.1rem]">
+              Headquartered in Lagos, Nigeria, our mission is clear: to simplify
+              complex financial matters and provide actionable insights for
+              local and global growth. Our team, carefully selected from
+              respected sources, brings both international standards and a deep
+              understanding of African regulatory landscapes to every project.
+            </p>
+            <p className="text-[1rem] tracking-[.5px] md:text-[1.1rem]">
+              We're not just experts; we're your strategic business partners.
+              Welcome to Phillips Akindele & Co.
             </p>
           </div>
-          <div className="mx[5px] my-[2rem] grid grrid-cols-1 md:grid-cols-3 gap-[2rem]">
-            <div data-aos="fade-left" className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white">
-              <img src={audit} alt="" className="w-[10rem] h-[8rem]" />
+          <div className="mx[5px] grrid-cols-1 my-[2rem] grid gap-[2rem] md:grid-cols-3">
+            <div
+              data-aos="fade-left"
+              className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white"
+            >
+              <img src={audit} alt="" className="h-[8rem] w-[10rem]" />
               <h4 className="text-[1.5rem] font-semibold">Audit</h4>
               <p>
                 Following the procedures stipulated by the International
@@ -45,8 +43,12 @@ function About() {
                 set of financial statements.
               </p>
             </div>
-            <div data-aos="fade-left" data-aos-delay="300" className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white">
-              <img src={tax} alt="" className="w-[10rem] h-[8rem]" />
+            <div
+              data-aos="fade-left"
+              data-aos-delay="300"
+              className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white"
+            >
+              <img src={tax} alt="" className="h-[8rem] w-[10rem]" />
               <h4 className="text-[1.5rem] font-semibold">Tax</h4>
               <p>
                 An examination of the level of compliance based on the tax laws
@@ -54,8 +56,12 @@ function About() {
                 industry.
               </p>
             </div>
-            <div data-aos="fade-left" data-aos-delay="600" className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white">
-              <img src={others} alt="" className="w-[10rem] h-[8rem]" />
+            <div
+              data-aos="fade-left"
+              data-aos-delay="600"
+              className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white"
+            >
+              <img src={others} alt="" className="h-[8rem] w-[10rem]" />
               <h4 className="text-[1.5rem] font-semibold">Other services</h4>
               <p>
                 This includes forensic audit, tax & financial due diligence, and

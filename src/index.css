@@ -18,8 +18,8 @@ body {
 }
 
 .hero {
-  background-image: url("./images/hero1.jpeg");
-  height: calc(100vh - 112px);
+  background-image: url("./images/hero.jpeg");
+  height: calc(70vh);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

@@ -34,8 +34,7 @@ function Navbar() {
                 ))}
               </ul>
             </nav>
-            <div className="hidden text-right md:block">
-              {/* Your contact info */}
+            {/* <div className="hidden text-right md:block">
               <p
                 style={{ fontFamily: "eb-garamond-08-italic" }}
                 className="italic"
@@ -54,7 +53,7 @@ function Navbar() {
               >
                 Phillips Akindele & Co.
               </p>
-            </div>
+            </div> */}
             <div className="block  cursor-pointer md:hidden">
               {isMobileMenuOpen ? (
                 <button
@@ -105,4 +104,4 @@ function Navbar() {
 
 export default Navbar;
 
-const navLink = ["home", "about", "why us", "team", "testimonials", "contact"];
+const navLink = ["home", "about", "why us", "team", "contact", "blog"];
