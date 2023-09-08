@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/pac/static/css/main.82e09b21.css",
-    "main.js": "/pac/static/js/main.db059e61.js",
+    "main.css": "/pac/static/css/main.63fc5377.css",
+    "main.js": "/pac/static/js/main.66fda3ee.js",
     "static/js/787.f7208970.chunk.js": "/pac/static/js/787.f7208970.chunk.js",
+    "static/media/Tax-amicoa.png": "/pac/static/media/Tax-amicoa.58eef07542b308d54baf.png",
+    "static/media/others.png": "/pac/static/media/others.60eacf83502efeeac8ff.png",
+    "static/media/Audit-rafiki.png": "/pac/static/media/Audit-rafiki.3a056a4456d0d887a891.png",
     "static/media/team.png": "/pac/static/media/team.9609093aa4854ac94718.png",
     "static/media/hero.jpeg": "/pac/static/media/hero.69dabcc8c1572373a2fe.jpeg",
     "static/media/tiag.png": "/pac/static/media/tiag.4624291ee91e37ae2a46.png",
@@ -10,16 +13,13 @@
     "static/media/logo1.jpg": "/pac/static/media/logo1.a072880a303f894ec1e3.jpg",
     "static/media/2.png": "/pac/static/media/2.f01bdb098a448a3f3b89.png",
     "static/media/1.png": "/pac/static/media/1.4f3bccc7bd311f249374.png",
-    "static/media/services.png": "/pac/static/media/services.9120c3d181c00d2347ca.png",
-    "static/media/tax.png": "/pac/static/media/tax.8e7b7346e50bd017a8c6.png",
-    "static/media/3.png": "/pac/static/media/3.995325a883d7cf6b7e63.png",
     "index.html": "/pac/index.html",
-    "main.82e09b21.css.map": "/pac/static/css/main.82e09b21.css.map",
-    "main.db059e61.js.map": "/pac/static/js/main.db059e61.js.map",
+    "main.63fc5377.css.map": "/pac/static/css/main.63fc5377.css.map",
+    "main.66fda3ee.js.map": "/pac/static/js/main.66fda3ee.js.map",
     "787.f7208970.chunk.js.map": "/pac/static/js/787.f7208970.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82e09b21.css",
-    "static/js/main.db059e61.js"
+    "static/css/main.63fc5377.css",
+    "static/js/main.66fda3ee.js"
   ]
 }
