@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pac/static/css/main.01d8b021.css",
-    "main.js": "/pac/static/js/main.445bd31e.js",
+    "main.css": "/pac/static/css/main.bbf30f1e.css",
+    "main.js": "/pac/static/js/main.3645be89.js",
     "static/js/787.f7208970.chunk.js": "/pac/static/js/787.f7208970.chunk.js",
     "static/media/Tax-amicoa.png": "/pac/static/media/Tax-amicoa.58eef07542b308d54baf.png",
     "static/media/others.png": "/pac/static/media/others.60eacf83502efeeac8ff.png",
@@ -14,14 +14,14 @@
     "static/media/logo1.jpg": "/pac/static/media/logo1.a072880a303f894ec1e3.jpg",
     "static/media/2.png": "/pac/static/media/2.f01bdb098a448a3f3b89.png",
     "static/media/1.png": "/pac/static/media/1.4f3bccc7bd311f249374.png",
-    "static/media/reel1.png": "/pac/static/media/reel1.755a0488fde0e2e2ce63.png",
+    "static/media/flutterwave.png": "/pac/static/media/flutterwave.a2744fc0db39b9b170e7.png",
     "index.html": "/pac/index.html",
-    "main.01d8b021.css.map": "/pac/static/css/main.01d8b021.css.map",
-    "main.445bd31e.js.map": "/pac/static/js/main.445bd31e.js.map",
+    "main.bbf30f1e.css.map": "/pac/static/css/main.bbf30f1e.css.map",
+    "main.3645be89.js.map": "/pac/static/js/main.3645be89.js.map",
     "787.f7208970.chunk.js.map": "/pac/static/js/787.f7208970.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01d8b021.css",
-    "static/js/main.445bd31e.js"
+    "static/css/main.bbf30f1e.css",
+    "static/js/main.3645be89.js"
   ]
 }
