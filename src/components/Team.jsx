@@ -10,9 +10,9 @@ function Team() {
           <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[1.5rem] font-[600] text-[#0D1A3C] md:text-[2rem]">
             Meet Our Team
           </h3>
-          <div className="flex items-center justify-between">
-            <div data-aos="fade-right" className="mx-auto mt-[2rem] w-1/2">
-              <p className="w-full text-[.8rem] tracking-[.5px] md:w-[500px] md:text-[1.1rem]">
+          <div className="flex flex-col md:flex-row items-center justify-between">
+            <div data-aos="fade-right" className="mx-auto mt-[2rem] w-full md:w-1/2">
+              <p className="w-full text-[1rem] tracking-[.5px] md:w-[500px] md:text-[1.1rem]">
                 We are a team of highly qualified professionals who are members
                 of professional bodies in Nigeria and the UK. <br /><br /> We pride ourselves
                 on having a hard working, diverse workforce, a friendly, and

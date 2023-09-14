@@ -9,15 +9,15 @@ function WhyUs() {
           <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-white text-center text-[1.5rem] font-[600] text-white md:text-[2rem]">
             Why Us
           </h3>
-          <div className="flex items-start justify-between gap-4">
+          <div className="flex flex-col md:flex-row items-start justify-between gap-4">
             <div>
               <img src={image} alt="" />
             </div>
-            <div className="max-w-[60%] space-y-[2rem] text-white">
+            <div className="max-w-[90%] md:max-w-[60%] space-y-[2rem] text-white">
               <div data-aos="fade-right">
                 <h4
                   // data-aos="fade-up"
-                  className="mb-[rem] w-fit max-w-[50%] text-[1.4rem] font-[400] md:text-[1.3rem]"
+                  className="mb-[rem] w-fit max-w-full md:max-w-[50%] text-[1.4rem] font-[400] md:text-[1.3rem]"
                 >
                   Our Commitment
                 </h4>

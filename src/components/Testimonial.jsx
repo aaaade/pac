@@ -47,10 +47,10 @@ function Testimonial() {
               </q>
               <br />
               <br />
-              <div className="mx-auto h-fit w-[3rem]">
+              <div className="mx-auto h-fit w-[8rem] mt-8">
                 <img src={reel} alt="" className="w-full" />
               </div>
-              <p className="ml-[-1rem] mt-4">
+              <p className="ml-[.2rem] mt-4">
                 <strong>Reelfruit company</strong>
               </p>
             </div>
@@ -69,10 +69,10 @@ function Testimonial() {
               </q>
               <br />
               <br />
-              <div className="mx-auto h-fit w-[8rem]">
+              <div className="mx-auto h-fit w-[10rem] mt-8">
                 <img src={flutterwave} alt="" className="w-full" />
               </div>
-              <p className="ml-[-1rem] mt-4">
+              <p className="ml-[1rem] mt-4">
                 <strong>Flutterwave company</strong>
               </p>
             </div>

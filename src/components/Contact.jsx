@@ -17,18 +17,18 @@ function Contact() {
       </h3>
       <div class="mx-auto grid w-full">
         <div className="flex justify-between">
-          <div className="ml-[17rem] mt-[2rem]">
-            <div className="flex items-center justify-center text-left italic">
-              <span className="border-r border-black pr-4 text-[1.2rem] ">
+          <div className="md:ml-[10rem] mt-[2rem]">
+            <div className="flex flex-col md:flex-row items-center justify-center text-left italic">
+              <span className="md:border-r md:border-black md:pr-4 text-[1.2rem] text-center md:ml-[4rem]">
                 A member of TIAG, TAG Alliances
               </span>
-              <span className="ml-4 flex items-center gap-2">
+              <span className="md:ml-4 flex items-center gap-2">
                 <p className="text-[1.2rem] italic ">Telephone:</p>
                 <p>08033510318/07064171650</p>
               </span>
             </div>
-            <div className="flex justify-between">
-              <div className="mt-[2rem] text-left text-[1.2rem]">
+            <div className="flex flex-col md:flex-row justify-between">
+              <div className="mt-[2rem] text-center md:text-left text-[1.2rem]">
                 <p>Phillips Akindele & Co.</p>
                 <p>1 Engineering Close, Victoria Island 106104, Lagos</p>
                 <span className="flex items-center gap-2">
@@ -36,7 +36,7 @@ function Contact() {
                   <p>team@phillipsakindeleandco.com</p>
                 </span>
                 <div className="mt-[2rem]">
-                  <ul className="flex cursor-pointer items-center gap-6 text-[1rem] font-normal text-white">
+                  <ul className="flex cursor-pointer items-center justify-center md:justify-start gap-6 text-[1rem] font-normal text-white">
                     <li>
                       <a
                         href="https://www.facebook.com/profile.php?id=100095332141729&mibextid=ZbWKwL"
@@ -64,11 +64,20 @@ function Contact() {
                         <img src={link} alt="" className="w-[1.2rem]" />
                       </a>
                     </li>
+                    <li>
+                      <a
+                        href="https://twitter.com/pac_nigeria"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        <img src={tw} alt="" className="w-[1.2rem]" />
+                      </a>
+                    </li>
                   </ul>
                 </div>
               </div>
-              <div>
-                <img src={image} alt="" className="w-[15rem]" />
+              <div className="md:ml-[5rem]">
+                <img src={image} alt="" className="w-[15rem] mx-auto mt-8 md:m-0 md:mt-0" />
               </div>
             </div>
           </div>

@@ -14,8 +14,8 @@ function About() {
           <div className="text-center text-[#666566]" data-aos="fade-up">
             <p className="mb-[1rem] text-[1rem] tracking-[.5px] md:text-[1.1rem]">
               At Phillips Akindele & Co., we specialize in audit and assurance
-              services. With a foundation established in 2013, we've proudly
-              partnered with over 200 clients across a range of industries in
+              services. With a foundation established in 2016, we've proudly
+              partnered with several clients across a range of industries in
               Africa.
             </p>
             <p className=" mb-[1rem] text-[1rem] tracking-[.5px] md:text-[1.1rem]">
@@ -26,7 +26,7 @@ function About() {
               understanding of African regulatory landscapes to every project.
             </p>
             <p className="text-[1rem] tracking-[.5px] md:text-[1.1rem]">
-              We're not just experts; we're your strategic business partners.
+              We are your strategic business partners.
               Welcome to Phillips Akindele & Co.
             </p>
           </div>
