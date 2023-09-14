@@ -104,4 +104,4 @@ function Navbar() {
 
 export default Navbar;
 
-const navLink = ["home", "about", "why us", "team", "contact", "blog"];
+const navLink = ["home", "about", "why us", "team", "contact"];

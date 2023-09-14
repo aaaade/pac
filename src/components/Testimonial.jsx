@@ -1,6 +1,7 @@
 import React from "react";
 import OwlCarousel from "react-owl-carousel";
-import reel from "../images/reel1.png";
+import reel from "../images/reel2.png";
+import flutterwave from "../images/flutterwave.png";
 
 const options = {
   margin: 16,
@@ -49,10 +50,30 @@ function Testimonial() {
               <div className="mx-auto h-fit w-[3rem]">
                 <img src={reel} alt="" className="w-full" />
               </div>
-              <p className="mt-4 ml-[-1rem]">
-                <strong>
-                  Reelfruit company
-                </strong>
+              <p className="ml-[-1rem] mt-4">
+                <strong>Reelfruit company</strong>
+              </p>
+            </div>
+            <div className="p-8 text-center text-[#fff]">
+              <q className="text-center italic text-[#fff]">
+                Phillips Akindele & Co. has allowed us to focus on our customers
+                instead of being overwhelmed during financial audits in a number
+                of countries on the continent. PAC team makes the process
+                seamless by proactively guiding us through audit requests,
+                saving us from having an entire team of auditors at our offices
+                and reducing weeks of compiling information. We enjoy the way
+                our annual audit and tax filings are completed timely. As value
+                add, the PAC team has been very accessible providing guidance.
+                We would highly recommend Phillips Akindele & Co. to anyone
+                looking for excellent audit services.
+              </q>
+              <br />
+              <br />
+              <div className="mx-auto h-fit w-[8rem]">
+                <img src={flutterwave} alt="" className="w-full" />
+              </div>
+              <p className="ml-[-1rem] mt-4">
+                <strong>Flutterwave company</strong>
               </p>
             </div>
             {/* <div className="bg-[#0D1A3C] p-8 text-[#fff]">
