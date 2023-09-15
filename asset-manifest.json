@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/pac/static/css/main.da48469a.css",
-    "main.js": "/pac/static/js/main.19c889c0.js",
+    "main.css": "/pac/static/css/main.c818b8e4.css",
+    "main.js": "/pac/static/js/main.21a47a56.js",
     "static/js/787.f7208970.chunk.js": "/pac/static/js/787.f7208970.chunk.js",
     "static/media/Tax-amicoa.png": "/pac/static/media/Tax-amicoa.58eef07542b308d54baf.png",
     "static/media/others.png": "/pac/static/media/others.60eacf83502efeeac8ff.png",
+    "static/media/day.jpg": "/pac/static/media/day.b9fefc49f69cfd80fb0d.jpg",
     "static/media/Why-Us1.png": "/pac/static/media/Why-Us1.c43893f78b0a8faff072.png",
     "static/media/Contact us-amico.png": "/pac/static/media/Contact us-amico.f6b8874384995472ff0a.png",
     "static/media/Audit-rafiki.png": "/pac/static/media/Audit-rafiki.3a056a4456d0d887a891.png",
     "static/media/team.png": "/pac/static/media/team.9609093aa4854ac94718.png",
     "static/media/tiag.png": "/pac/static/media/tiag.4624291ee91e37ae2a46.png",
-    "static/media/lekki-bridge.jpg": "/pac/static/media/lekki-bridge.1ef6914303b1fba2582d.jpg",
     "static/media/logo1.jpg": "/pac/static/media/logo1.a072880a303f894ec1e3.jpg",
     "static/media/2.png": "/pac/static/media/2.f01bdb098a448a3f3b89.png",
     "static/media/1.png": "/pac/static/media/1.4f3bccc7bd311f249374.png",
     "static/media/flutterwave.png": "/pac/static/media/flutterwave.a2744fc0db39b9b170e7.png",
     "index.html": "/pac/index.html",
-    "main.da48469a.css.map": "/pac/static/css/main.da48469a.css.map",
-    "main.19c889c0.js.map": "/pac/static/js/main.19c889c0.js.map",
+    "main.c818b8e4.css.map": "/pac/static/css/main.c818b8e4.css.map",
+    "main.21a47a56.js.map": "/pac/static/js/main.21a47a56.js.map",
     "787.f7208970.chunk.js.map": "/pac/static/js/787.f7208970.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da48469a.css",
-    "static/js/main.19c889c0.js"
+    "static/css/main.c818b8e4.css",
+    "static/js/main.21a47a56.js"
   ]
 }
