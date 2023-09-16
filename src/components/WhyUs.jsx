@@ -32,9 +32,7 @@ function WhyUs() {
                   and proactive solutions to empower your financial decisions.
                   We are your Independent professional when it comes to business
                   transactions, your partner when it comes to developing a
-                  strategic plan, and we are like superheroes, safeguarding you
-                  and your money, reducing the amount of tax you have to pay. We
-                  go the extra mile.
+                  strategic plan, and we are like superheroes, safeguarding your money, and providing advisory on your taxes.
                 </p>
               </div>
               <div data-aos="fade-left">

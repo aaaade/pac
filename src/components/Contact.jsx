@@ -19,9 +19,9 @@ function Contact() {
         <div className="flex justify-between">
           <div className="md:ml-[10rem] mt-[2rem]">
             <div className="flex flex-col md:flex-row items-center justify-center text-left italic">
-              <span className="md:border-r md:border-black md:pr-4 text-[1.2rem] text-center md:ml-[4rem]">
+              {/* <span className="md:border-r md:border-black md:pr-4 text-[1.2rem] text-center md:ml-[4rem]">
                 A member of TIAG, TAG Alliances
-              </span>
+              </span> */}
               <span className="md:ml-4 flex items-center gap-2">
                 <p className="text-[1.2rem] italic ">Telephone:</p>
                 <p>08033510318/07064171650</p>
