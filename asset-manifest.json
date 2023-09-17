@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pac/static/css/main.58aed380.css",
-    "main.js": "/pac/static/js/main.5c930531.js",
+    "main.css": "/pac/static/css/main.d935930e.css",
+    "main.js": "/pac/static/js/main.dc0e5e64.js",
     "static/js/787.f7208970.chunk.js": "/pac/static/js/787.f7208970.chunk.js",
     "static/media/Tax-amicoa.png": "/pac/static/media/Tax-amicoa.58eef07542b308d54baf.png",
     "static/media/others.png": "/pac/static/media/others.60eacf83502efeeac8ff.png",
@@ -16,12 +16,12 @@
     "static/media/1.png": "/pac/static/media/1.4f3bccc7bd311f249374.png",
     "static/media/flutterwave.png": "/pac/static/media/flutterwave.a2744fc0db39b9b170e7.png",
     "index.html": "/pac/index.html",
-    "main.58aed380.css.map": "/pac/static/css/main.58aed380.css.map",
-    "main.5c930531.js.map": "/pac/static/js/main.5c930531.js.map",
+    "main.d935930e.css.map": "/pac/static/css/main.d935930e.css.map",
+    "main.dc0e5e64.js.map": "/pac/static/js/main.dc0e5e64.js.map",
     "787.f7208970.chunk.js.map": "/pac/static/js/787.f7208970.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58aed380.css",
-    "static/js/main.5c930531.js"
+    "static/css/main.d935930e.css",
+    "static/js/main.dc0e5e64.js"
   ]
 }
