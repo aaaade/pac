@@ -31,8 +31,7 @@ function WhyUs() {
                   believe in privacy and confidentiality, clear communication,
                   and proactive solutions to empower your financial decisions.
                   We are your Independent professional when it comes to business
-                  transactions, your partner when it comes to developing a
-                  strategic plan, and we are like superheroes, safeguarding your money, and providing advisory on your taxes.
+                  transactions, your partner when it comes to safeguarding your money and providing advisory on your taxes. We go the extra mile.
                 </p>
               </div>
               <div data-aos="fade-left">

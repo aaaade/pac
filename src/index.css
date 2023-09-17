@@ -25,6 +25,13 @@ body {
   background-position: top;
 }
 
+@media (max-width: 600px) {
+  .hero {
+    height: 23vh;
+    background-size: 100% auto;
+  }
+}
+
 .team {
   /* background-image: url("./images/team.jpg"); */
   /* height: calc(100vh - 112px); */

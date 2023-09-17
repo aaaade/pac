@@ -18,11 +18,11 @@ function Contact() {
       <div class="mx-auto grid w-full">
         <div className="flex justify-between">
           <div className="md:ml-[10rem] mt-[2rem]">
-            <div className="flex flex-col md:flex-row items-center justify-center text-left italic">
+            <div className="">
               {/* <span className="md:border-r md:border-black md:pr-4 text-[1.2rem] text-center md:ml-[4rem]">
                 A member of TIAG, TAG Alliances
               </span> */}
-              <span className="md:ml-4 flex items-center gap-2">
+              <span className="flex items-center gap-2 justify-center md:justify-start">
                 <p className="text-[1.2rem] italic ">Telephone:</p>
                 <p>08033510318/07064171650</p>
               </span>

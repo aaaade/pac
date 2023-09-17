@@ -14,13 +14,13 @@ function Navbar() {
       <div className=" bg-white  py-[.5rem] shadow-md">
         <header className="app-container">
           <div className="flex items-center justify-between">
-            <div className="">
+            <a href="#home" className="">
               <img
                 src={logo}
                 alt="Phillips Akindele and Co"
                 width={150}
               />
-            </div>
+            </a>
             <nav className="hidden md:block">
               {/* Your desktop navigation */}
               <ul className="flex gap-[1rem]">
