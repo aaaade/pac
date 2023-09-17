@@ -27,7 +27,7 @@ function Team() {
                 values, we can deliver better services. <br />
                 <br /> We value team building and bonding. Unlike Jack, we work
                 hard and play hard. We are not dull auditors. <br />
-                <br /> The PAC Team!.
+                <br /> We call ourselves 'The PAC Team'.
               </p>
             </div>
             <div className="" data-aos="fade-left" data-aos-delay="300">

@@ -5,7 +5,7 @@ import mail from "../images/mail.png";
 import chat from "../images/chat.png";
 import fb from "../images/fb-black.png";
 import insta from "../images/insta-black.png";
-import tw from "../images/tw-black.png";
+import tw from "../images/tw1.png";
 import link from "../images/link-black.png";
 import image from "../images/Contact us-amico.png";
 
@@ -30,7 +30,7 @@ function Contact() {
             <div className="flex flex-col md:flex-row justify-between">
               <div className="mt-[2rem] text-center md:text-left text-[1.2rem]">
                 <p>Phillips Akindele & Co.</p>
-                <p>1 Engineering Close, Victoria Island 106104, Lagos</p>
+                <p>1 Engineering Close, Victoria Island, Lagos</p>
                 <span className="flex items-center gap-2">
                   <p className=" italic ">Email:</p>{" "}
                   <p>team@phillipsakindeleandco.com</p>
