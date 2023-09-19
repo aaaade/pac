@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6a0d6463.css",
-    "main.js": "/static/js/main.22cc8677.js",
+    "main.js": "/static/js/main.479da73e.js",
     "static/js/787.f7208970.chunk.js": "/static/js/787.f7208970.chunk.js",
     "static/media/tt.png": "/static/media/tt.9326be21f14a5098ec13.png",
     "static/media/Tax-amicoa.png": "/static/media/Tax-amicoa.58eef07542b308d54baf.png",
@@ -18,11 +18,11 @@
     "static/media/flutterwave.png": "/static/media/flutterwave.a2744fc0db39b9b170e7.png",
     "index.html": "/index.html",
     "main.6a0d6463.css.map": "/static/css/main.6a0d6463.css.map",
-    "main.22cc8677.js.map": "/static/js/main.22cc8677.js.map",
+    "main.479da73e.js.map": "/static/js/main.479da73e.js.map",
     "787.f7208970.chunk.js.map": "/static/js/787.f7208970.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a0d6463.css",
-    "static/js/main.22cc8677.js"
+    "static/js/main.479da73e.js"
   ]
 }
