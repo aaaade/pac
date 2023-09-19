@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pac/static/css/main.e37f951f.css",
-    "main.js": "/pac/static/js/main.fc247632.js",
+    "main.js": "/pac/static/js/main.bd9a31c8.js",
     "static/js/787.f7208970.chunk.js": "/pac/static/js/787.f7208970.chunk.js",
     "static/media/tt.png": "/pac/static/media/tt.9326be21f14a5098ec13.png",
     "static/media/Tax-amicoa.png": "/pac/static/media/Tax-amicoa.58eef07542b308d54baf.png",
@@ -18,11 +18,11 @@
     "static/media/flutterwave.png": "/pac/static/media/flutterwave.a2744fc0db39b9b170e7.png",
     "index.html": "/pac/index.html",
     "main.e37f951f.css.map": "/pac/static/css/main.e37f951f.css.map",
-    "main.fc247632.js.map": "/pac/static/js/main.fc247632.js.map",
+    "main.bd9a31c8.js.map": "/pac/static/js/main.bd9a31c8.js.map",
     "787.f7208970.chunk.js.map": "/pac/static/js/787.f7208970.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e37f951f.css",
-    "static/js/main.fc247632.js"
+    "static/js/main.bd9a31c8.js"
   ]
 }
