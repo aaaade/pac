@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/pac/static/css/main.e37f951f.css",
-    "main.js": "/pac/static/js/main.ad3b214f.js",
-    "static/js/787.f7208970.chunk.js": "/pac/static/js/787.f7208970.chunk.js",
-    "static/media/tt.png": "/pac/static/media/tt.9326be21f14a5098ec13.png",
-    "static/media/Tax-amicoa.png": "/pac/static/media/Tax-amicoa.58eef07542b308d54baf.png",
-    "static/media/others.png": "/pac/static/media/others.60eacf83502efeeac8ff.png",
-    "static/media/day.jpg": "/pac/static/media/day.b9fefc49f69cfd80fb0d.jpg",
-    "static/media/Why-Us1.png": "/pac/static/media/Why-Us1.c43893f78b0a8faff072.png",
-    "static/media/Contact us-amico.png": "/pac/static/media/Contact us-amico.f6b8874384995472ff0a.png",
-    "static/media/Audit-rafiki.png": "/pac/static/media/Audit-rafiki.3a056a4456d0d887a891.png",
-    "static/media/team.png": "/pac/static/media/team.9609093aa4854ac94718.png",
-    "static/media/tiag.png": "/pac/static/media/tiag.4624291ee91e37ae2a46.png",
-    "static/media/CAC-Logo.png": "/pac/static/media/CAC-Logo.6038bf8a049f86136251.png",
-    "static/media/tw1.png": "/pac/static/media/tw1.5d83fe20a1fcd119ef27.png",
-    "static/media/logo1.jpg": "/pac/static/media/logo1.a072880a303f894ec1e3.jpg",
-    "static/media/flutterwave.png": "/pac/static/media/flutterwave.a2744fc0db39b9b170e7.png",
-    "index.html": "/pac/index.html",
-    "main.e37f951f.css.map": "/pac/static/css/main.e37f951f.css.map",
-    "main.ad3b214f.js.map": "/pac/static/js/main.ad3b214f.js.map",
-    "787.f7208970.chunk.js.map": "/pac/static/js/787.f7208970.chunk.js.map"
+    "main.css": "/static/css/main.6a0d6463.css",
+    "main.js": "/static/js/main.22cc8677.js",
+    "static/js/787.f7208970.chunk.js": "/static/js/787.f7208970.chunk.js",
+    "static/media/tt.png": "/static/media/tt.9326be21f14a5098ec13.png",
+    "static/media/Tax-amicoa.png": "/static/media/Tax-amicoa.58eef07542b308d54baf.png",
+    "static/media/others.png": "/static/media/others.60eacf83502efeeac8ff.png",
+    "static/media/day.jpg": "/static/media/day.b9fefc49f69cfd80fb0d.jpg",
+    "static/media/Why-Us1.png": "/static/media/Why-Us1.c43893f78b0a8faff072.png",
+    "static/media/Contact us-amico.png": "/static/media/Contact us-amico.f6b8874384995472ff0a.png",
+    "static/media/Audit-rafiki.png": "/static/media/Audit-rafiki.3a056a4456d0d887a891.png",
+    "static/media/team.png": "/static/media/team.9609093aa4854ac94718.png",
+    "static/media/tiag.png": "/static/media/tiag.4624291ee91e37ae2a46.png",
+    "static/media/CAC-Logo.png": "/static/media/CAC-Logo.6038bf8a049f86136251.png",
+    "static/media/tw1.png": "/static/media/tw1.5d83fe20a1fcd119ef27.png",
+    "static/media/logo1.jpg": "/static/media/logo1.a072880a303f894ec1e3.jpg",
+    "static/media/flutterwave.png": "/static/media/flutterwave.a2744fc0db39b9b170e7.png",
+    "index.html": "/index.html",
+    "main.6a0d6463.css.map": "/static/css/main.6a0d6463.css.map",
+    "main.22cc8677.js.map": "/static/js/main.22cc8677.js.map",
+    "787.f7208970.chunk.js.map": "/static/js/787.f7208970.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e37f951f.css",
-    "static/js/main.ad3b214f.js"
+    "static/css/main.6a0d6463.css",
+    "static/js/main.22cc8677.js"
   ]
 }
