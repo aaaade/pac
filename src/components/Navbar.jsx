@@ -4,10 +4,14 @@ import logo from "../images/logo1.jpg";
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  const [showDD, setShowDD] = useState(false)
+  const [showDD, setShowDD] = useState(false);
 
-  const toggleMobileMenu = () => {
-    setIsMobileMenuOpen(!isMobileMenuOpen);
+  const toggleMobileMenu = (link) => {
+    if (link === "resource centre") {
+      setShowDD(!showDD);
+    } else {
+      setIsMobileMenuOpen(!isMobileMenuOpen);
+    }
   };
 
   return (
@@ -38,7 +42,7 @@ function Navbar() {
                       </a>
                     </li>
                     {link === "resource centre" && (
-                      <div className="absolute right-[8.5rem] top-[5rem] hidden w-[9.5rem] bg-white p-4 pt-2 group-hover:block shadow-md">
+                      <div className="absolute right-[8.5rem] top-[5rem] hidden w-[9.5rem] bg-white p-4 pt-2 shadow-md group-hover:block">
                         <ul>
                           <a href="/news">
                             <li>News</li>
@@ -99,17 +103,26 @@ function Navbar() {
         <div className="h-full w-full bg-white p-4">
           <ul className="flex flex-col gap-4">
             {navLink.map((link) => (
-              <li
-                key={link}
-                className="text-[1.1rem] font-light uppercase text-black hover:text-[#067CA6]"
-              >
-                <a
-                  href={`/#${link.replace(" ", "")}`}
-                  onClick={toggleMobileMenu}
+              <>
+                <li
+                  key={link}
+                  className="text-[1.1rem] font-light uppercase text-black hover:text-[#067CA6]"
                 >
-                  {link}
-                </a>
-              </li>
+                  <a
+                    href={
+                      link !== "resource centre" && `/#${link.replace(" ", "")}`
+                    }
+                    onClick={() => toggleMobileMenu(link)}
+                  >
+                    {link}
+                  </a>
+                </li>
+                {link === "resource centre" && showDD && (
+                  <a href="/news" className="text-[1.1rem] font-light uppercase text-black hover:text-[#067CA6]">
+                    News
+                  </a>
+                )}
+              </>
             ))}
           </ul>
         </div>
