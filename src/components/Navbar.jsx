@@ -1,8 +1,10 @@
 import React, { useState } from "react";
-import logo from "../images/logo1.jpg"
+import logo from "../images/logo1.jpg";
 
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
+  const [showDD, setShowDD] = useState(false)
 
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -15,22 +17,36 @@ function Navbar() {
         <header className="app-container">
           <div className="flex items-center justify-between">
             <a href="#home" className="">
-              <img
-                src={logo}
-                alt="Phillips Akindele and Co"
-                width={150}
-              />
+              <img src={logo} alt="Phillips Akindele and Co" width={150} />
             </a>
             <nav className="hidden md:block">
               {/* Your desktop navigation */}
               <ul className="flex gap-[1rem]">
                 {navLink.map((link) => (
-                  <li
-                    key={link}
-                    className="h-[80px] cursor-pointer text-[.9rem] uppercase leading-[80px]  hover:mt-[-7.5px] hover:border-t-8"
-                  >
-                    <a href={`#${link.replace(" ", "")}`}>{link}</a>
-                  </li>
+                  <div className="group">
+                    <li
+                      key={link}
+                      className="h-[80px] cursor-pointer text-[.9rem] uppercase leading-[80px]  hover:mt-[-7.5px] hover:border-t-8 "
+                    >
+                      <a
+                        href={
+                          link !== "resource centre" &&
+                          `/#${link.replace(" ", "")}`
+                        }
+                      >
+                        {link}
+                      </a>
+                    </li>
+                    {link === "resource centre" && (
+                      <div className="absolute right-[8.5rem] top-[5rem] hidden w-[9.5rem] bg-white p-4 pt-2 group-hover:block shadow-md">
+                        <ul>
+                          <a href="/news">
+                            <li>News</li>
+                          </a>
+                        </ul>
+                      </div>
+                    )}
+                  </div>
                 ))}
               </ul>
             </nav>
@@ -88,7 +104,7 @@ function Navbar() {
                 className="text-[1.1rem] font-light uppercase text-black hover:text-[#067CA6]"
               >
                 <a
-                  href={`#${link.replace(" ", "")}`}
+                  href={`/#${link.replace(" ", "")}`}
                   onClick={toggleMobileMenu}
                 >
                   {link}
@@ -104,4 +120,11 @@ function Navbar() {
 
 export default Navbar;
 
-const navLink = ["home", "about", "why us", "team", "contact"];
+const navLink = [
+  "home",
+  "about",
+  "why us",
+  "team",
+  "resource centre",
+  "contact",
+];

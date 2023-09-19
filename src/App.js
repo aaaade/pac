@@ -1,35 +1,30 @@
 import { useEffect, useState } from "react";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
-import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-import Services from "./components/Services";
-import Team from "./components/Team";
-import Testimonial from "./components/Testimonial";
-import WhyUs from "./components/WhyUs";
-import AOS from 'aos';
-import 'aos/dist/aos.css';
-import Tiag from "./components/Tiag";
-
+import AOS from "aos";
+import "aos/dist/aos.css";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import Homepage from "./pages/Homepage";
+import News from "./pages/News";
+import NewsDetails from "./pages/NewsDetails";
 
 function App() {
   const [activeSection, setActiveSection] = useState(null);
   useEffect(() => {
     AOS.init();
-  }, [])
+  }, []);
   return (
     <>
-      <Navbar activeSection={activeSection} setActiveSection={setActiveSection} />
-      <Hero />
-      <About />
-      <WhyUs />
-      {/* <Services /> */}
-      <Team />
-      <Testimonial />
-      <Contact />
-      <Tiag/>
-      <Footer />
+      <Navbar
+        activeSection={activeSection}
+        setActiveSection={setActiveSection}
+      />
+      <Router>
+        <Routes>
+          <Route path="/" element={<Homepage />} />
+          <Route path="news" element={<News />} />
+          <Route path="news/cac-commence-strike" element={<NewsDetails />} />
+        </Routes>
+      </Router>
     </>
   );
 }
