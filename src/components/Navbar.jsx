@@ -20,7 +20,7 @@ function Navbar() {
       <div className=" bg-white  py-[.5rem] shadow-md">
         <header className="app-container">
           <div className="flex items-center justify-between">
-            <a href="#home" className="">
+            <a href="/#home" className="">
               <img src={logo} alt="Phillips Akindele and Co" width={150} />
             </a>
             <nav className="hidden md:block">
