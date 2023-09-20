@@ -14,7 +14,7 @@ function About() {
           <div className="text-center text-[#666566]" data-aos="fade-up">
             <p className="mb-[1rem] text-[1rem] tracking-[.5px] md:text-[1.1rem]">
               At Phillips Akindele & Co., we specialize in audit and assurance
-              services. With a foundation established in 2016, and the only Nigerian Tax member of TAG Alliances (a Worldwide Alliance of Independent Professional Service Firms), we’ve proudly partnered with several clients across a range of industries in Africa.
+              services. With a foundation established in 2016, and the only Nigerian audit & tax member firm of TAG Alliances (a Worldwide Alliance of Independent Professional Service Firms), we’ve proudly partnered with several clients across a range of industries in Africa.
             </p>
             <p className=" mb-[1rem] text-[1rem] tracking-[.5px] md:text-[1.1rem]">
               Headquartered in Lagos, Nigeria, our mission is clear: to simplify
@@ -24,7 +24,7 @@ function About() {
               understanding of African regulatory landscapes to every project.
             </p>
             <p className="text-[1rem] tracking-[.5px] md:text-[1.1rem]">
-              We are your strategic business partners.
+              We are your strategic business partner.
             </p>
           </div>
           <div className="mx[5px] grrid-cols-1 my-[2rem] grid gap-[2rem] md:grid-cols-3">
@@ -33,7 +33,7 @@ function About() {
               className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white"
             >
               <img src={audit} alt="" className="h-[8rem] w-[10rem]" />
-              <h4 className="text-[1.5rem] font-semibold">Audit</h4>
+              <h4 className="text-[1.5rem] font-semibold">Audit & Assurance</h4>
               <p>
                 Following the procedures stipulated by the International
                 Auditing Standards and expressing an appropriate opinion on a
@@ -59,7 +59,7 @@ function About() {
               className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white"
             >
               <img src={others} alt="" className="h-[8rem] w-[10rem]" />
-              <h4 className="text-[1.5rem] font-semibold">Other services</h4>
+              <h4 className="text-[1.5rem] font-semibold">Advisory Services</h4>
               <p>
                 This includes forensic audit, tax & financial due diligence, and
                 other professional services.
