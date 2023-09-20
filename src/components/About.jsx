@@ -14,7 +14,7 @@ function About() {
           <div className="text-center text-[#666566]" data-aos="fade-up">
             <p className="mb-[1rem] text-[1rem] tracking-[.5px] md:text-[1.1rem]">
               At Phillips Akindele & Co., we specialize in audit and assurance
-              services. With a foundation established in 2016, and tthe only Nigerian audit & tax member firm of TAG Alliances (a Worldwide Alliance of Independent Professional Service Firms), we’ve proudly partnered with several clients across a range of industries in Africa.
+              services. With a foundation established in 2016, and the only Nigerian audit & tax member firm of TAG Alliances (a Worldwide Alliance of Independent Professional Service Firms), we’ve proudly partnered with several clients across a range of industries in Africa.
             </p>
             <p className=" mb-[1rem] text-[1rem] tracking-[.5px] md:text-[1.1rem]">
               Headquartered in Lagos, Nigeria, our mission is clear: to simplify
@@ -59,7 +59,7 @@ function About() {
               className="flex flex-col items-center rounded-[1rem] bg-[#009FE3] p-[2rem] text-center text-white"
             >
               <img src={others} alt="" className="h-[8rem] w-[10rem]" />
-              <h4 className="text-[1.5rem] font-semibold">‘Advisory Services</h4>
+              <h4 className="text-[1.5rem] font-semibold">Advisory Services</h4>
               <p>
                 This includes forensic audit, tax & financial due diligence, and
                 other professional services.
