@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import logo from "../images/logo1.jpg";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -27,7 +28,7 @@ function Navbar() {
               {/* Your desktop navigation */}
               <ul className="flex gap-[1rem]">
                 {navLink.map((link) => (
-                  <div className="group">
+                  <div className="group" key={link}>
                     <li
                       key={link}
                       className="h-[80px] cursor-pointer text-[.9rem] uppercase leading-[80px]  hover:mt-[-7.5px] hover:border-t-8 "
@@ -44,9 +45,9 @@ function Navbar() {
                     {link === "resource centre" && (
                       <div className="absolute right-[8.5rem] top-[5rem] hidden w-[9.5rem] bg-white p-4 pt-2 shadow-md group-hover:block">
                         <ul>
-                          <a href="/news">
+                          <Link to="/news">
                             <li>News</li>
-                          </a>
+                          </Link>
                         </ul>
                       </div>
                     )}

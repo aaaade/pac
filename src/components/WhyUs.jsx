@@ -42,13 +42,12 @@ function WhyUs() {
                   Our Expertise
                 </h4>
                 <p>
-                  Our qualified and seasoned experts bring a wealth of knowledge
-                  to your financial journey. We specialize in industry-specific
+                  Our qualified and seasoned experts bring a wealth of knowledge to your journey with us. We specialize in industry-specific
                   solutions, offering a diverse range of traditional and digital
                   services to guide you toward sustainable growth. We've helped
                   top companies achieve predictable revenue and profit growth by
                   enhancing their organizational performance through our Audit,
-                  Tax, and Advisory services. We lead with exceptional ideas.
+                  Tax, and Advisory services.
                 </p>
               </div>
               <div data-aos="fade-right">
@@ -56,7 +55,7 @@ function WhyUs() {
                   // data-aos="fade-up"
                   className="mb-[rem] w-fit text-[1.4rem] font-[400] md:text-[1.3rem]"
                 >
-                  What We are Known For
+                  What We Are Known For
                 </h4>
                 <ul className="ml-5 list-disc">
                   <li>

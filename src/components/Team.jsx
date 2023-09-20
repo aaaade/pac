@@ -17,7 +17,7 @@ function Team() {
             >
               <p className="w-full text-[1rem] tracking-[.5px] md:w-[500px] md:text-[1.1rem]">
                 We are a team of highly qualified professionals who are members
-                of professional bodies in Nigeria and the UK. <br />
+                of professional bodies. <br />
                 <br /> We pride ourselves on having a hard working, diverse
                 workforce, a friendly, and respectful culture, and we encourage
                 our people to have the right mindsets and skills to navigate
