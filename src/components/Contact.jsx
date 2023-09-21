@@ -30,7 +30,7 @@ function Contact() {
             <div className="flex flex-col md:flex-row justify-between">
               <div className="mt-[2rem] text-center md:text-left text-[1.2rem]">
                 <p>Phillips Akindele & Co.</p>
-                <p>1 Engineering Close, Victoria Island, Lagos</p>
+                <p>3rd Floor, NSE Building, 1, Engineering Close, <br/> Victoria Island, Lagos state, Nigeria</p>
                 <span className="flex items-center gap-2">
                   <p className=" italic ">Email:</p>{" "}
                   <p>team@phillipsakindeleandco.com</p>
