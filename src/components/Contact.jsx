@@ -1,8 +1,4 @@
 import React from "react";
-import location from "../images/location.png";
-import phone from "../images/phone.png";
-import mail from "../images/mail.png";
-import chat from "../images/chat.png";
 import fb from "../images/fb-black.png";
 import insta from "../images/insta-black.png";
 import tw from "../images/tw1.png";
@@ -15,7 +11,7 @@ function Contact() {
       <h3 className="mx-auto mb-[1rem] w-fit border-b-2 border-[#067CA6] text-center text-[1.5rem] font-[600] text-[#0D1A3C] md:text-[2rem]">
         Want to contact us?
       </h3>
-      <div class="mx-auto grid w-full">
+      <div className="mx-auto grid w-full">
         <div className="flex justify-between">
           <div className="md:ml-[10rem] mt-[2rem]">
             <div className="">
